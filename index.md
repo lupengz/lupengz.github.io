@@ -49,17 +49,21 @@ I received my B.Eng. in Network Engineering from Dalian University of Technology
   <u>Lupeng Zhang</u>, Pingchuan Wang, Yuming Zhang, Zongzheng Chi, Ning Tong, Lei Wang, and Fengqi Li.  
   *Digital Communications and Networks*, 2023, 9(4): 809–816.
 
-- **Complex Scene Video Frames Alignment and Multi-Frame Fusion Deraining with Deep Neural Network**  
-  Rui Su, <u>Lupeng Zhang</u>, Yuming Zhang, Fengqiang Xu, Kun Lu, Ning Tong, and Fengqi Li.  
-  *Neural Computing and Applications*, 2023, 35(7): 5369–5380.
+[//]: # (- **Complex Scene Video Frames Alignment and Multi-Frame Fusion Deraining with Deep Neural Network**  )
+
+[//]: # (  Rui Su, <u>Lupeng Zhang</u>, Yuming Zhang, Fengqiang Xu, Kun Lu, Ning Tong, and Fengqi Li.  )
+
+[//]: # (  *Neural Computing and Applications*, 2023, 35&#40;7&#41;: 5369–5380.)
 
 - **A Blockchain-Assisted Massive IoT Data Collection Intelligent Framework**  
   <u>Lupeng Zhang</u>, Fengqi Li, Pingchuan Wang, Rui Su, and Zongzheng Chi.  
   *IEEE Internet of Things Journal*, 2021, 9(16): 14708–14722.
 
-- **BCT: An Efficient and Fault Tolerance Blockchain Consensus Transform Mechanism for IoT**  
-  Jintian Fu, <u>Lupeng Zhang</u>, Leixin Wang, and Fengqi Li.  
-  *IEEE Internet of Things Journal*, 2021, 10(14): 12055–12065.
+[//]: # (- **BCT: An Efficient and Fault Tolerance Blockchain Consensus Transform Mechanism for IoT**  )
+
+[//]: # (  Jintian Fu, <u>Lupeng Zhang</u>, Leixin Wang, and Fengqi Li.  )
+
+[//]: # (  *IEEE Internet of Things Journal*, 2021, 10&#40;14&#41;: 12055–12065.)
 
 - **EHRChain: A Blockchain-Based EHR System Using Attribute-Based and Homomorphic Cryptosystem**  
   Fengqi Li, Kemeng Liu, <u>Lupeng Zhang</u>, Sikai Huang, and Qiufan Wu.  
