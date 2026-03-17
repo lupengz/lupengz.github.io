@@ -20,6 +20,16 @@ and
 I received my B.Eng. in Network Engineering from Dalian University of Technology, where I had the pleasure of being advised by <a href="https://faculty.dlut.edu.cn/leiwang/zh_CN/index/706091/list/index.htm">Prof. Lei Wang</a>!
 </p>
 
+<div id="news" class="anchor-offset"></div>
+<h2>News</h2>
+
+<ul class="compact-list">
+  <li><strong>Mar. 2026:</strong> Happy to serve as an Artifact Evaluation Committee Member for IEEE Symposium on Security and Privacy (IEEE S&P), 2026.</li>
+  <li><strong>Aug. 2025:</strong> Started my Ph.D. journey at Nanyang Technological University!</li>
+  <li><strong>Oct. 2024:</strong> Presented <em>Aquakey</em> at UbiComp'24 in Melbourne, Australia.</li>
+  <li><strong>Mar. 2024:</strong> I was offered an intern position at Microsoft Research Asia, Shanghai!</li>
+</ul>
+
 <div id="publications" class="anchor-offset"></div>
 <h2>Selected Publications</h2>
 
