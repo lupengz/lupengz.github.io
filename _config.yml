@@ -30,7 +30,7 @@
 minimal_mistakes_skin    : "mint"
 
 locale                   : "en-US"
-title: "Lupeng's Homepage"
+title: "Lupeng Zhang - Personal Homepage"
 title_separator          : "-"
 name                     : "Lupeng Zhang<br/>(张璐鹏)"
 description              : "Ph.D. Student at Nanyang Technological University"
@@ -140,13 +140,7 @@ author:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=a0AKXBkAAAAJ"
-    - label: "Visitors"
-      icon: "fas fa-fw fa-globe"
-      url: ""
-#    - label: "ORCID"
-#      icon: "ai ai-orcid"
-#      url: "https://orcid.org/0000-0002-2266-8584"
-# Site Footer
+
 footer:
   links:
     - label: "Twitter"
