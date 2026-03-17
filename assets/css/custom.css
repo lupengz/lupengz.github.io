@@ -1,0 +1,257 @@
+body {
+  color: #222;
+  font-size: 17px;
+  background-color: #ffffff;
+}
+
+.page__content,
+.page__content p,
+.page__content li {
+  color: #222;
+}
+
+a {
+  color: #2f6fb3;
+}
+
+a:hover {
+  color: #1f5c99;
+}
+
+/* top bar and footer keep white and clean */
+.masthead,
+.page__footer {
+  background-color: #ffffff !important;
+  border-color: #e8eef5 !important;
+}
+
+/* blue accents for selected text */
+.page__title,
+.archive__item-title,
+.site-title,
+.masthead__menu-item a,
+.page__content h2 {
+  color: #234e7d !important;
+}
+
+.author__name {
+  color: #1f3f5b !important;
+  font-size: 1.18em;
+  line-height: 1.2;
+}
+
+.author-cn {
+  font-size: 1.02em;
+  font-weight: 700;
+  margin-top: 0.18em;
+  margin-bottom: 0.15em;
+  color: #3d6f9e;
+}
+
+.author-role {
+  color: #5a6b7d;
+}
+
+/* sidebar clarity */
+.sidebar {
+  opacity: 1 !important;
+  filter: none !important;
+}
+
+.author__content,
+.author__bio,
+.author__urls,
+.author__avatar,
+.author__urls-wrapper,
+.sidebar p,
+.sidebar a,
+.sidebar li {
+  opacity: 1 !important;
+  filter: none !important;
+}
+
+/* content sizing */
+.page {
+  font-size: 0.95em;
+}
+
+.page__title {
+  font-size: 2em !important;
+  margin-bottom: 0.45em;
+}
+
+.page__content p,
+.page__content li {
+  font-size: 1em;
+  line-height: 1.4;
+}
+
+.page__content h2 {
+  font-size: 1.4em;
+  margin-top: 1em;
+  margin-bottom: 0.28em;
+}
+
+.page__content ul {
+  margin-top: 0.16em;
+  margin-bottom: 0.48em;
+}
+
+.page__content li {
+  margin-bottom: 0.12em;
+}
+
+.masthead__menu-item a {
+  font-size: 0.95em;
+}
+
+.site-title {
+  font-size: 1.08em !important;
+}
+
+.author__bio,
+.author__urls {
+  font-size: 0.92em;
+  line-height: 1.35;
+}
+
+.author__avatar img {
+  max-width: 170px;
+}
+
+/* compact list for hobbies or awards */
+.compact-list {
+  margin-top: 0.12em;
+  margin-bottom: 0.35em;
+}
+
+.compact-list li {
+  margin-bottom: 0.05em;
+  line-height: 1.26;
+}
+
+/* typewriter title */
+#typewriter-title {
+  font-size: 2.15em;
+  font-weight: 700;
+  margin-bottom: 0.42em;
+  min-height: 1.25em;
+  line-height: 1.18;
+  color: #234e7d;
+}
+
+#typewriter-title::after {
+  content: "|";
+  display: inline-block;
+  margin-left: 4px;
+  color: #3d6f9e;
+  animation: blink 0.8s infinite;
+}
+
+@keyframes blink {
+  0%, 50% { opacity: 1; }
+  50.01%, 100% { opacity: 0; }
+}
+
+/* clickable cat */
+.cat-widget {
+  position: fixed;
+  right: 22px;
+  bottom: 18px;
+  z-index: 9999;
+  cursor: pointer;
+  user-select: none;
+}
+
+.cat-widget img {
+  width: clamp(95px, 10vw, 140px);
+  height: auto;
+  display: block;
+  transform-origin: center bottom;
+  animation: catIdle 2.8s ease-in-out infinite;
+  transition: filter 0.2s ease;
+}
+
+.cat-widget:hover img {
+  filter: brightness(1.03);
+}
+
+@keyframes catIdle {
+  0%   { transform: translateY(0) rotate(0deg); }
+  25%  { transform: translateY(-3px) rotate(-2deg); }
+  50%  { transform: translateY(-6px) rotate(0deg); }
+  75%  { transform: translateY(-3px) rotate(2deg); }
+  100% { transform: translateY(0) rotate(0deg); }
+}
+
+.cat-widget.active img {
+  animation: catTap 0.9s ease-in-out 1;
+}
+
+@keyframes catTap {
+  0%   { transform: translateY(0) scale(1) rotate(0deg); }
+  15%  { transform: translateY(-10px) scale(1.04) rotate(-8deg); }
+  35%  { transform: translateY(-18px) scale(1.08) rotate(8deg); }
+  55%  { transform: translateY(-8px) scale(1.02) rotate(-6deg); }
+  75%  { transform: translateY(-3px) scale(1.01) rotate(4deg); }
+  100% { transform: translateY(0) scale(1) rotate(0deg); }
+}
+
+.cat-meow {
+  position: absolute;
+  right: 70px;
+  bottom: 58px;
+  background: rgba(255, 255, 255, 0.96);
+  border: 1px solid #dce7f2;
+  border-radius: 14px;
+  padding: 4px 10px;
+  font-size: 14px;
+  color: #4a5a6a;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+  opacity: 0;
+  transform: translateY(6px);
+  pointer-events: none;
+}
+
+.cat-widget.active .cat-meow {
+  animation: meowPop 0.9s ease-in-out 1;
+}
+
+@keyframes meowPop {
+  0%   { opacity: 0; transform: translateY(6px); }
+  20%  { opacity: 1; transform: translateY(0); }
+  75%  { opacity: 1; transform: translateY(-4px); }
+  100% { opacity: 0; transform: translateY(-10px); }
+}
+
+@media screen and (max-width: 768px) {
+  .cat-widget {
+    right: 12px;
+    bottom: 12px;
+  }
+
+  .cat-widget img {
+    width: 84px;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.masthead {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background-color: #ffffff !important;
+}
+
+.anchor-offset {
+  display: block;
+  position: relative;
+  top: -85px;
+  visibility: hidden;
+  height: 0;
+}
+
+

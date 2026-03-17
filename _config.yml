@@ -12,21 +12,41 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "catppuccin_latte", "catppuccin_mocha"
 
-# Site Settings
+#minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "catppuccin_latte", "catppuccin_mocha"
+#
+## Site Settings
+#locale                   : "en-US"
+#rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
+#title                    : "Site Title"
+#title_separator          : "-"
+#subtitle                 : # site tagline that appears below site title in masthead
+#name                     : "Your Name"
+#description              : "An amazing website."
+#url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+#baseurl                  : # the subpath of your site, e.g. "/blog"
+#repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+---
+layout: single
+author_profile: true
+title: ""
+permalink: /
+---
+
+minimal_mistakes_skin    : "mint"
+
 locale                   : "en-US"
-rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title: "Lupeng's Homepage"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+name                     : "Lupeng Zhang<br/>(张璐鹏)"
+description              : "Ph.D. Student at Nanyang Technological University"
+url                      : "https://lupengz.github.io"
+baseurl                  : ""
+repository               : "lupengz/lupengz.gitƒhub.io"
+remote_theme             : "mmistakes/minimal-mistakes@4.28.0"
+
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo: "/assets/images/chi-cat-icon.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -114,32 +134,24 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
-  # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
+  name: "Lupeng Zhang (张璐鹏)"
+  avatar: "/assets/images/portrait.jpg"
+  bio: "Ph.D. Student at NTU"
+  location: "Singapore"
+  email: "LUPENG001@e.ntu.edu.sg"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-square-envelope"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-square-x-twitter"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-square-facebook"
-      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
-
+      url: "https://github.com/lupengz"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=a0AKXBkAAAAJ"
+    - label: "Visitors"
+      icon: "fas fa-fw fa-globe"
+      url: ""
+#    - label: "ORCID"
+#      icon: "ai ai-orcid"
+#      url: "https://orcid.org/0000-0002-2266-8584"
 # Site Footer
 footer:
   links:
@@ -235,9 +247,9 @@ permalink: /:categories/:title/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
-# Pagination with jekyll-paginate
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+## Pagination with jekyll-paginate
+#paginate: 5 # amount of posts to show
+#paginate_path: /page:num/
 
 # Pagination with jekyll-paginate-v2
 # See https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
