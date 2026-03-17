@@ -26,12 +26,6 @@
 #url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : # the subpath of your site, e.g. "/blog"
 #repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
----
-layout: single
-author_profile: true
-title: ""
-permalink: /
----
 
 minimal_mistakes_skin    : "mint"
 
@@ -42,7 +36,7 @@ name                     : "Lupeng Zhang<br/>(张璐鹏)"
 description              : "Ph.D. Student at Nanyang Technological University"
 url                      : "https://lupengz.github.io"
 baseurl                  : ""
-repository               : "lupengz/lupengz.gitƒhub.io"
+repository               : "lupengz/lupengz.github.io"
 remote_theme             : "mmistakes/minimal-mistakes@4.28.0"
 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -275,10 +269,7 @@ pagination:
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
+  - jekyll-remote-theme
   - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
