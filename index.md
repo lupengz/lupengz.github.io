@@ -33,7 +33,7 @@ I received my B.Eng. in Network Engineering from Dalian University of Technology
 <div id="publications" class="anchor-offset"></div>
 <h2>Selected Publications</h2>
 
-- **MoirEar: Moir Can See What You Cannot Hear**  
+- **MoirEar: Moiré Can See What You Cannot Hear**  
   Hongqiang Zhang, <u>Lupeng Zhang</u>, Chengcheng Zhao, Yuanchao Shu, Peng Cheng, Jiming Chen, Jie Xiong.
   *ACM SenSys*, 2026.
 - **From a Point to Hundreds: Embracing LiDAR on Commodity Smartphones for Fine-grained Pulmonary Function Sensing**  
