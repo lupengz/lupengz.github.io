@@ -36,7 +36,7 @@ I received my B.Eng. in Network Engineering from Dalian University of Technology
 - **MoirEar: Moir Can See What You Cannot Hear**  
   Hongqiang Zhang, <u>Lupeng Zhang</u>, Chengcheng Zhao, Yuanchao Shu, Peng Cheng, Jiming Chen, Jie Xiong.
   *ACM SenSys*, 2026.
-- **From a Point to Hundreds: Embracing LiDAR on Commodity Smartphones forFine-grained Pulmonary Function Sensing**  
+- **From a Point to Hundreds: Embracing LiDAR on Commodity Smartphones for Fine-grained Pulmonary Function Sensing**  
   Xuefu Dong, Wenwei Li, Minhao Cui, Zilong Wang, <u>Lupeng Zhang</u>, Akihito Taya, Yuuki Nishiyama, Kaoru Sezaki, Lili Qiu, Jie Xiong.
   *ACM SenSys*, 2026.
 - **Zero-Knowledge Neighbor Discovery for Underwater Optical Wireless Sensor Networks**  
