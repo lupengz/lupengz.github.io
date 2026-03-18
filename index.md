@@ -36,43 +36,35 @@ I received my B.Eng. in Network Engineering from Dalian University of Technology
 - **MoirEar: Moir Can See What You Cannot Hear**  
   Hongqiang Zhang, <u>Lupeng Zhang</u>, Chengcheng Zhao, Yuanchao Shu, Peng Cheng, Jiming Chen, Jie Xiong.
   *ACM SenSys*, 2026.
-- 
+
 - **From a Point to Hundreds: Embracing LiDAR on Commodity Smartphones forFine-grained Pulmonary Function Sensing**  
   Xuefu Dong, Wenwei Li, Minhao Cui, Zilong Wang, <u>Lupeng Zhang</u>, Akihito Taya, Yuuki Nishiyama, Kaoru Sezaki, Lili Qiu, Jie Xiong.
   *ACM SenSys*, 2026.
-- 
 - **Zero-Knowledge Neighbor Discovery for Underwater Optical Wireless Sensor Networks**  
   Yu Tian, Lei Wang, Chi Lin, Bin Han, <u>Lupeng Zhang</u>, Zhiyi Zhou, Yu Sun, and Bingxian Lu.  
   *IEEE Transactions on Mobile Computing (TMC)*, 2025.
-
 - **Aquakey: Exploiting the Randomness of the Underwater Visible Light Communication Channel for Key Extraction**  
   <u>Lupeng Zhang</u>, Pingchuan Wang, Minhao Cui, Jingwen Wei, Yu Tian, Jingchi Zhang, Jie Xiong, and Lei Wang.  
   *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT / UbiComp)*, 2024, 8(1): 1–25.
-
 - **UniQR: A Secure QR Code Payment Scheme Using Device Pose and Environmental Matching**  
   Jingwen Wei, <u>Lupeng Zhang</u>, Jingchi Zhang, Bin Han, and Lei Wang.  
   *IEEE SECON*, 2024, pp. 1–9.
-
 - **An Adaptive and Robust Secret Key Extraction Scheme from High Noise Wireless Channel in IIoT**  
   <u>Lupeng Zhang</u>, Pingchuan Wang, Yuming Zhang, Zongzheng Chi, Ning Tong, Lei Wang, and Fengqi Li.  
   *Digital Communications and Networks*, 2023, 9(4): 809–816.
-
 [//]: # (- **Complex Scene Video Frames Alignment and Multi-Frame Fusion Deraining with Deep Neural Network**  )
 
 [//]: # (  Rui Su, <u>Lupeng Zhang</u>, Yuming Zhang, Fengqiang Xu, Kun Lu, Ning Tong, and Fengqi Li.  )
 
 [//]: # (  *Neural Computing and Applications*, 2023, 35&#40;7&#41;: 5369–5380.)
-
 - **A Blockchain-Assisted Massive IoT Data Collection Intelligent Framework**  
   <u>Lupeng Zhang</u>, Fengqi Li, Pingchuan Wang, Rui Su, and Zongzheng Chi.  
   *IEEE Internet of Things Journal*, 2021, 9(16): 14708–14722.
-
 [//]: # (- **BCT: An Efficient and Fault Tolerance Blockchain Consensus Transform Mechanism for IoT**  )
 
 [//]: # (  Jintian Fu, <u>Lupeng Zhang</u>, Leixin Wang, and Fengqi Li.  )
 
 [//]: # (  *IEEE Internet of Things Journal*, 2021, 10&#40;14&#41;: 12055–12065.)
-
 - **EHRChain: A Blockchain-Based EHR System Using Attribute-Based and Homomorphic Cryptosystem**  
   Fengqi Li, Kemeng Liu, <u>Lupeng Zhang</u>, Sikai Huang, and Qiufan Wu.  
   *IEEE Transactions on Services Computing*, 2021, 15(5): 2755–2765.
