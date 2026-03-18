@@ -33,6 +33,14 @@ I received my B.Eng. in Network Engineering from Dalian University of Technology
 <div id="publications" class="anchor-offset"></div>
 <h2>Selected Publications</h2>
 
+- **MoirEar: Moir Can See What You Cannot Hear**  
+  Hongqiang Zhang, <u>Lupeng Zhang</u>, Chengcheng Zhao, Yuanchao Shu, Peng Cheng, Jiming Chen, Jie Xiong.
+  *ACM SenSys*, 2026.
+- 
+- **From a Point to Hundreds: Embracing LiDAR on Commodity Smartphones forFine-grained Pulmonary Function Sensing**  
+  Xuefu Dong, Wenwei Li, Minhao Cui, Zilong Wang, <u>Lupeng Zhang</u>, Akihito Taya, Yuuki Nishiyama, Kaoru Sezaki, Lili Qiu, Jie Xiong.
+  *ACM SenSys*, 2026.
+- 
 - **Zero-Knowledge Neighbor Discovery for Underwater Optical Wireless Sensor Networks**  
   Yu Tian, Lei Wang, Chi Lin, Bin Han, <u>Lupeng Zhang</u>, Zhiyi Zhou, Yu Sun, and Bingxian Lu.  
   *IEEE Transactions on Mobile Computing (TMC)*, 2025.
