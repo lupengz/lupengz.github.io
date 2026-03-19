@@ -54,12 +54,6 @@ I received my B.Eng. in Network Engineering from Dalian University of Technology
 - **A Blockchain-Assisted Massive IoT Data Collection Intelligent Framework**  
   <u>Lupeng Zhang</u>, Fengqi Li, Pingchuan Wang, Rui Su, and Zongzheng Chi.  
   *IEEE Internet of Things Journal*, 2021, 9(16): 14708–14722.
-- **BCT: An Efficient and Fault Tolerance Blockchain Consensus Transform Mechanism for IoT**
-  Jintian Fu, <u>Lupeng Zhang</u>, Leixin Wang, and Fengqi Li.
-  *IEEE Internet of Things Journal*, 2021, 10(14): 12055–12065.
-- **EHRChain: A Blockchain-Based EHR System Using Attribute-Based and Homomorphic Cryptosystem**  
-  Fengqi Li, Kemeng Liu, <u>Lupeng Zhang</u>, Sikai Huang, and Qiufan Wu.  
-  *IEEE Transactions on Services Computing*, 2021, 15(5): 2755–2765.
 
 For a full list of publications, please visit my [Google Scholar](https://scholar.google.com/citations?user=a0AKXBkAAAAJ).
 
