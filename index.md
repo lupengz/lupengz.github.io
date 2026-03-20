@@ -83,7 +83,7 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 [//]: # (</ul>)
 
 <div id="awards" class="anchor-offset"></div>
-<h2>Selected Honors and Awards</h2>
+<h2>Honors and Awards</h2>
 
 <ul>
   <li><strong>NTU Research Scholarship</strong>, Nanyang Technological University, 2025.</li>
@@ -100,7 +100,7 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 
 
 <div id="experience" class="anchor-offset"></div>
-<h2>Experience</h2>
+<h2>Industry Experience</h2>
 
 <ul>
   <li>
