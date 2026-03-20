@@ -34,26 +34,32 @@ I received my B.Eng. in Network Engineering from Dalian University of Technology
 <h2>Selected Publications</h2>
 
 - **MoirEar: Moiré Can See What You Cannot Hear**  
-  Hongqiang Zhang, <u>Lupeng Zhang</u>, Chengcheng Zhao, Yuanchao Shu, Peng Cheng, Jiming Chen, Jie Xiong.
-  *ACM SenSys*, 2026.
+  Hongqiang Zhang, <u>Lupeng Zhang</u>, Chengcheng Zhao, Yuanchao Shu, Peng Cheng, Jiming Chen, and Jie Xiong.  
+  *Proceedings of the ACM Conference on Embedded Networked Sensor Systems (SenSys)*, 2026.
+
 - **From a Point to Hundreds: Embracing LiDAR on Commodity Smartphones for Fine-grained Pulmonary Function Sensing**  
-  Xuefu Dong, Wenwei Li, Minhao Cui, Zilong Wang, <u>Lupeng Zhang</u>, Akihito Taya, Yuuki Nishiyama, Kaoru Sezaki, Lili Qiu, Jie Xiong.
-  *ACM SenSys*, 2026.
+  Xuefu Dong, Wenwei Li, Minhao Cui, Zilong Wang, <u>Lupeng Zhang</u>, Akihito Taya, Yuuki Nishiyama, Kaoru Sezaki, Lili Qiu, and Jie Xiong.  
+  *Proceedings of the ACM Conference on Embedded Networked Sensor Systems (SenSys)*, 2026.
+
 - **Zero-Knowledge Neighbor Discovery for Underwater Optical Wireless Sensor Networks**  
   Yu Tian, Lei Wang, Chi Lin, Bin Han, <u>Lupeng Zhang</u>, Zhiyi Zhou, Yu Sun, and Bingxian Lu.  
   *IEEE Transactions on Mobile Computing (TMC)*, 2025.
+
 - **Aquakey: Exploiting the Randomness of the Underwater Visible Light Communication Channel for Key Extraction**  
   <u>Lupeng Zhang</u>, Pingchuan Wang, Minhao Cui, Jingwen Wei, Yu Tian, Jingchi Zhang, Jie Xiong, and Lei Wang.  
-  *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT / UbiComp)*, 2024, 8(1): 1–25.
+  *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)*, 2024, 8(1): 1–25.
+
 - **UniQR: A Secure QR Code Payment Scheme Using Device Pose and Environmental Matching**  
   Jingwen Wei, <u>Lupeng Zhang</u>, Jingchi Zhang, Bin Han, and Lei Wang.  
-  *IEEE SECON*, 2024, pp. 1–9.
+  *IEEE International Conference on Sensing, Communication, and Networking (SECON)*, 2024, pp. 1–9.
+
 - **An Adaptive and Robust Secret Key Extraction Scheme from High Noise Wireless Channel in IIoT**  
   <u>Lupeng Zhang</u>, Pingchuan Wang, Yuming Zhang, Zongzheng Chi, Ning Tong, Lei Wang, and Fengqi Li.  
-  *Digital Communications and Networks*, 2023, 9(4): 809–816.
+  *Digital Communications and Networks (DCN)*, 2023, 9(4): 809–816.
+
 - **A Blockchain-Assisted Massive IoT Data Collection Intelligent Framework**  
   <u>Lupeng Zhang</u>, Fengqi Li, Pingchuan Wang, Rui Su, and Zongzheng Chi.  
-  *IEEE Internet of Things Journal*, 2021, 9(16): 14708–14722.
+  *IEEE Internet of Things Journal (IoT-J)*, 2021, 9(16): 14708–14722.
 
 For a full list of publications, please visit my [Google Scholar](https://scholar.google.com/citations?user=a0AKXBkAAAAJ).
 
@@ -89,8 +95,8 @@ For a full list of publications, please visit my [Google Scholar](https://schola
   <li><strong>NTU Research Scholarship</strong>, Nanyang Technological University, 2025.</li>
   <li><strong>Longcheng Laboratory Scholarship</strong>, 2024.</li>
   <li><strong>National Scholarship in China</strong>, 2021, 2022.</li>
-  <li><strong>Outstanding Student Exemplar</strong>, Dalian University of Technology, (<em>Top 10 in DUT</em>), 2021.</li>
-  <li><strong>Qu Bochuan Scholarship</strong>, Dalian University of Technology, 2021.</li>
+  <li><strong>Outstanding Student Pacemaker</strong>, Dalian University of Technology, (<em>Top 10 in DUT</em>), 2021.</li>
+  <li><strong>Qu Bochuan (President) Scholarship</strong>, Dalian University of Technology, 2021.</li>
   <li><strong>First Prize</strong>, China National University Computer Competition, 2021.</li>
   <li><strong>Special Prize</strong>, China National University Computer Competition, 2019.</li>
   <li><strong>Second-Class Merit Scholarship</strong>, Dalian University of Technology, 2019.</li>
@@ -113,14 +119,13 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 <div id="service" class="anchor-offset"></div>
 <h2>Service</h2>
 
-- **Artifact Evaluation Committee Member**, IEEE Symposium on Security and Privacy (IEEE S&P), 2026.
+- **Artifact Evaluation Committee Member**, *IEEE Symposium on Security and Privacy (IEEE S&P)*, 2026.
 
-- **Reviewer**, ACM CHI, 2024.
+- **Reviewer**, *ACM Conference on Human Factors in Computing Systems (CHI)*, 2024.
 
-- **Reviewer**, IEEE Systems Journal, 2021–2023.
+- **Reviewer**, *IEEE Systems Journal*, 2021–2023.
 
-- **Reviewer**, IEEE Transactions on Industrial Informatics, 2021, 2023.
-
+- **Reviewer**, *IEEE Transactions on Industrial Informatics (TII)*, 2021, 2023.
 
 
 <div id="teaching" class="anchor-offset"></div>
