@@ -14,9 +14,9 @@ I'm currently a first-year Ph.D. student at
 I am very fortunate to be advised by
 <a href="https://jiexiong1.github.io/">Prof. Jie Xiong</a>!
 I am also delighted to work closely with
-<a href="https://minhaocui.github.io/">Prof. Minhao Cui</a>
+<a href="https://st.ewi.tudelft.nl/qing/">Prof. Qing Wang</a>
 and
-<a href="https://st.ewi.tudelft.nl/qing/">Prof. Qing Wang</a>!
+<a href="https://minhaocui.github.io/">Prof. Minhao Cui</a>!
 I received my B.Eng. in Network Engineering from Dalian University of Technology, where I had the pleasure of being advised by <a href="https://faculty.dlut.edu.cn/leiwang/zh_CN/index/706091/list/index.htm">Prof. Lei Wang</a>!
 </p>
 
