@@ -24,7 +24,8 @@ I received my B.Eng. in Network Engineering from Dalian University of Technology
 <h2>News</h2>
 
 <ul class="compact-list">
-  <li><strong>Mar. 2026:</strong> Happy to serve as an Artifact Evaluation Committee Member for IEEE Symposium on Security and Privacy (IEEE S&P), 2026.</li>
+  <li><strong>Apr. 2026:</strong> One paper was accepted at IMWUT/UbiComp '26.</li>
+<li><strong>Mar. 2026:</strong> Happy to serve as an Artifact Evaluation Committee Member for IEEE Symposium on Security and Privacy (IEEE S&P), 2026.</li>
   <li><strong>Aug. 2025:</strong> Started my Ph.D. journey at Nanyang Technological University!</li>
   <li><strong>Oct. 2024:</strong> Presented <em>Aquakey</em> at UbiComp'24 in Melbourne, Australia.</li>
   <li><strong>Mar. 2024:</strong> I was offered an intern position at Microsoft Research Asia, Shanghai!</li>
@@ -32,6 +33,11 @@ I received my B.Eng. in Network Engineering from Dalian University of Technology
 
 <div id="publications" class="anchor-offset"></div>
 <h2>Selected Publications</h2>
+
+- **From One Form of Energy to Another: Laser-Induced Injection Attacks on Acoustic Sensing**  
+  <u>Lupeng Zhang</u>, Minhao Cui, Wenwei Li, Xuefu Dong, Qing Wang, Lei Wang, Daqing Zhang, Lili Qiu, Jie Xiong.
+  *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp '26)*, 2026.
+
 
 - **MoirEar: Moiré Can See What You Cannot Hear**  
   Hongqiang Zhang, <u>Lupeng Zhang</u>, Chengcheng Zhao, Yuanchao Shu, Peng Cheng, Jiming Chen, and Jie Xiong.  
@@ -47,7 +53,7 @@ I received my B.Eng. in Network Engineering from Dalian University of Technology
 
 - **Aquakey: Exploiting the Randomness of the Underwater Visible Light Communication Channel for Key Extraction**  
   <u>Lupeng Zhang</u>, Pingchuan Wang, Minhao Cui, Jingwen Wei, Yu Tian, Jingchi Zhang, Jie Xiong, and Lei Wang.  
-  *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)*, 2024, 8(1): 1–25.
+  *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp '24)*, 2024, 8(1): 1–25.
 
 - **UniQR: A Secure QR Code Payment Scheme Using Device Pose and Environmental Matching**  
   Jingwen Wei, <u>Lupeng Zhang</u>, Jingchi Zhang, Bin Han, and Lei Wang.  
