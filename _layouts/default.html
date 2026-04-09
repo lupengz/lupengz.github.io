@@ -9,7 +9,7 @@
     {% include head.html locale=locale %}
     {% include head/custom.html %}
   </head>
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=080808&w=300&t=tt&d=9W1daRxUh9JltKg7fGl6VQy74QnNERR7Vk7WPwMQU6U&co=ffffff&cmo=7d80fa&cmn=f09eb6&ct=808080'></script>
+
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}" dir="{% if site.rtl %}rtl{% else %}ltr{% endif %}">
     {% include_cached skip-links.html locale=locale %}
     {% include_cached masthead.html locale=locale %}
