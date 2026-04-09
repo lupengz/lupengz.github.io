@@ -157,3 +157,7 @@ For a full list of publications, please visit my [Google Scholar](https://schola
   <img id="cat-img" src="/assets/images/chi-cat-icon.png" alt="Cute cat">
   <span id="cat-meow" class="cat-meow">Meow~</span>
 </div>
+
+## Visitors
+
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=9W1daRxUh9JltKg7fGl6VQy74QnNERR7Vk7WPwMQU6U&cl=ffffff&w=a"></script>
