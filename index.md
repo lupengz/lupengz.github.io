@@ -158,14 +158,23 @@ For a full list of publications, please visit my [Google Scholar](https://schola
   <span id="cat-meow" class="cat-meow">Meow~</span>
 </div>
 
-<h2>Visitors</h2>
+[//]: # (<h2>Visitors</h2>)
 
-<div style="max-width: 300px; margin: 24px auto; text-align: center;">
-  <a href="https://mapmyvisitors.com/web/1c3ap" title="Visit tracker" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://mapmyvisitors.com/map.png?cl=080808&w=300&t=tt&d=9W1daRxUh9JltKg7fGl6VQy74QnNERR7Vk7WPwMQU6U&co=ffffff&ct=808080"
-      alt="Visit tracker"
-      style="width: 100%; height: auto; display: block; border-radius: 8px;"
-    />
-  </a>
-</div>
+[//]: # ()
+[//]: # (<div style="max-width: 300px; margin: 24px auto; text-align: center;">)
+
+[//]: # (  <a href="https://mapmyvisitors.com/web/1c3ap" title="Visit tracker" target="_blank" rel="noopener noreferrer">)
+
+[//]: # (    <img)
+
+[//]: # (      src="https://mapmyvisitors.com/map.png?cl=080808&w=300&t=tt&d=9W1daRxUh9JltKg7fGl6VQy74QnNERR7Vk7WPwMQU6U&co=ffffff&ct=808080")
+
+[//]: # (      alt="Visit tracker")
+
+[//]: # (      style="width: 100%; height: auto; display: block; border-radius: 8px;")
+
+[//]: # (    />)
+
+[//]: # (  </a>)
+
+[//]: # (</div>)
