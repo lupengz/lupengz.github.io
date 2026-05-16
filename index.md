@@ -24,7 +24,7 @@ I received my B.Eng. in Network Engineering from Dalian University of Technology
 <h2>News</h2>
 
 <ul class="compact-list">
-<li><strong>May 2026:</strong>Our MoieEar paper received the Best Paper Honorable Mention Award at SenSys 2026.</li>
+<li><strong>May 2026:</strong>Our <em>MoieEar</em> paper received the Best Paper Honorable Mention Award at SenSys 2026.</li>
   <li><strong>Apr. 2026:</strong> One paper was accepted at IMWUT/UbiComp '26.</li>
 <li><strong>Mar. 2026:</strong> Happy to serve as an Artifact Evaluation Committee Member for IEEE Symposium on Security and Privacy (IEEE S&P), 2026.</li>
   <li><strong>Aug. 2025:</strong> Started my Ph.D. journey at Nanyang Technological University!</li>
@@ -99,7 +99,7 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 <h2>Honors and Awards</h2>
 
 <ul>
-  <li><strong>SenSys '26 Best Paper Honorable Mention Award.</strong></li>
+  <li><strong>SenSys '26 Best Paper Honorable Mention Award,</strong> IEEE/ACM SenSys, 2026.</li>
   <li><strong>NTU Research Scholarship</strong>, Nanyang Technological University, 2025.</li>
   <li><strong>Longcheng Laboratory Scholarship</strong>, 2024.</li>
   <li><strong>National Scholarship in China</strong>, 2021, 2022.</li>
