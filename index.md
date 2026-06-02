@@ -131,7 +131,7 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 <h2>Service</h2>
 
 - **Artifact Evaluation Committee Member**, *NDSS*, 2027.
-- 
+
 - **Artifact Evaluation Committee Member**, *ACM Conference on
   Computer and Communications Security (ACM CCS)*, 2026.
 
