@@ -63,13 +63,18 @@ Computer and Communications Security (ACM CCS), 2026.</li>
   Jingwen Wei, <u>Lupeng Zhang</u>, Jingchi Zhang, Bin Han, and Lei Wang.  
   *IEEE International Conference on Sensing, Communication, and Networking (SECON)*, 2024, pp. 1–9.
 
-- **An Adaptive and Robust Secret Key Extraction Scheme from High Noise Wireless Channel in IIoT**  
-  <u>Lupeng Zhang</u>, Pingchuan Wang, Yuming Zhang, Zongzheng Chi, Ning Tong, Lei Wang, and Fengqi Li.  
-  *Digital Communications and Networks (DCN)*, 2023, 9(4): 809–816.
+[//]: # (- **An Adaptive and Robust Secret Key Extraction Scheme from High Noise Wireless Channel in IIoT**  )
 
-- **A Blockchain-Assisted Massive IoT Data Collection Intelligent Framework**  
-  <u>Lupeng Zhang</u>, Fengqi Li, Pingchuan Wang, Rui Su, and Zongzheng Chi.  
-  *IEEE Internet of Things Journal (IoT-J)*, 2021, 9(16): 14708–14722.
+[//]: # (  <u>Lupeng Zhang</u>, Pingchuan Wang, Yuming Zhang, Zongzheng Chi, Ning Tong, Lei Wang, and Fengqi Li.  )
+
+[//]: # (  *Digital Communications and Networks &#40;DCN&#41;*, 2023, 9&#40;4&#41;: 809–816.)
+
+[//]: # ()
+[//]: # (- **A Blockchain-Assisted Massive IoT Data Collection Intelligent Framework**  )
+
+[//]: # (  <u>Lupeng Zhang</u>, Fengqi Li, Pingchuan Wang, Rui Su, and Zongzheng Chi.  )
+
+[//]: # (  *IEEE Internet of Things Journal &#40;IoT-J&#41;*, 2021, 9&#40;16&#41;: 14708–14722.)
 
 For a full list of publications, please visit my [Google Scholar](https://scholar.google.com/citations?user=a0AKXBkAAAAJ).
 
