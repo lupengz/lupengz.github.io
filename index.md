@@ -24,6 +24,7 @@ I received my B.Eng. in Network Engineering from Dalian University of Technology
 <h2>News</h2>
 
 <ul class="compact-list">
+<li><strong>Jun 2026: One paper has been conditionally accepted at ACM MobiCom 2026!</strong></li>
 <li><strong>Jun 2026:</strong> Happy to serve as an Artifact Evaluation Committee Member for NDSS 2027.</li>
 <li><strong>May 2026:</strong> Happy to serve as an Artifact Evaluation Committee Member for ACM Conference on
 Computer and Communications Security (ACM CCS), 2026.</li>
