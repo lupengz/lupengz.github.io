@@ -143,6 +143,8 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 
 - **Artifact Evaluation Committee Member**, *IEEE Symposium on Security and Privacy (IEEE S&P)*, 2026.
 
+- **Reviewer**, *IEEE Transactions on Mobile Computing*, 2026.
+
 - **Reviewer**, *ACM Conference on Human Factors in Computing Systems (CHI)*, 2024.
 
 - **Reviewer**, *IEEE Systems Journal*, 2021–2023.
