@@ -8,7 +8,7 @@ permalink: /
 <div id="typewriter-title"></div>
 
 <p>
-I'm currently a first-year Ph.D. student at
+I'm currently a second-year Ph.D. student at
 <a href="https://www.ntu.edu.sg/computing">College of Computing and Data Science</a>,
 <a href="https://www.ntu.edu.sg/">Nanyang Technological University</a>, Singapore.
 I am very fortunate to be advised by
