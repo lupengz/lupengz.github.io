@@ -43,6 +43,9 @@ Computer and Communications Security (ACM CCS), 2026.</li>
   <u>Lupeng Zhang</u>, Minhao Cui, Wenwei Li, Xuefu Dong, Qing Wang, Lei Wang, Daqing Zhang, Lili Qiu, Jie Xiong.
   *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp '26)*, 2026.
 
+- **Aquakey: Exploiting the Randomness of the Underwater Visible Light Communication Channel for Key Extraction**  
+  <u>Lupeng Zhang</u>, Pingchuan Wang, Minhao Cui, Jingwen Wei, Yu Tian, Jingchi Zhang, Jie Xiong, and Lei Wang.  
+  *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp '24)*, 2024, 8(1): 1–25.
 
 - **MoirEar: Moiré Can See What You Cannot Hear**  
   Hongqiang Zhang, <u>Lupeng Zhang</u>, Chengcheng Zhao, Yuanchao Shu, Peng Cheng, Jiming Chen, and Jie Xiong.  
@@ -51,14 +54,6 @@ Computer and Communications Security (ACM CCS), 2026.</li>
 - **From a Point to Hundreds: Embracing LiDAR on Commodity Smartphones for Fine-grained Pulmonary Function Sensing**  
   Xuefu Dong, Wenwei Li, Minhao Cui, Zilong Wang, <u>Lupeng Zhang</u>, Akihito Taya, Yuuki Nishiyama, Kaoru Sezaki, Lili Qiu, and Jie Xiong.  
   *Proceedings of the ACM Conference on Embedded Networked Sensor Systems (SenSys)*, 2026.
-
-- **Zero-Knowledge Neighbor Discovery for Underwater Optical Wireless Sensor Networks**  
-  Yu Tian, Lei Wang, Chi Lin, Bin Han, <u>Lupeng Zhang</u>, Zhiyi Zhou, Yu Sun, and Bingxian Lu.  
-  *IEEE Transactions on Mobile Computing (TMC)*, 2025.
-
-- **Aquakey: Exploiting the Randomness of the Underwater Visible Light Communication Channel for Key Extraction**  
-  <u>Lupeng Zhang</u>, Pingchuan Wang, Minhao Cui, Jingwen Wei, Yu Tian, Jingchi Zhang, Jie Xiong, and Lei Wang.  
-  *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp '24)*, 2024, 8(1): 1–25.
 
 - **UniQR: A Secure QR Code Payment Scheme Using Device Pose and Environmental Matching**  
   Jingwen Wei, <u>Lupeng Zhang</u>, Jingchi Zhang, Bin Han, and Lei Wang.  
