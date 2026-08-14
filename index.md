@@ -47,7 +47,7 @@ Computer and Communications Security (ACM CCS), 2026.</li>
   <u>Lupeng Zhang</u>, Pingchuan Wang, Minhao Cui, Jingwen Wei, Yu Tian, Jingchi Zhang, Jie Xiong, and Lei Wang.  
   *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp '24)*, 2024, 8(1): 1–25.
 
-- **MoirEar: Moiré Can See What You Cannot Hear**  
+- **MoiréEar: Moiré Can See What You Cannot Hear**  
   Hongqiang Zhang, <u>Lupeng Zhang</u>, Chengcheng Zhao, Yuanchao Shu, Peng Cheng, Jiming Chen, and Jie Xiong.  
   *Proceedings of the ACM Conference on Embedded Networked Sensor Systems (SenSys)*, 2026.
 
