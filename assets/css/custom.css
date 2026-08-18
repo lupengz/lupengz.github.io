@@ -267,7 +267,7 @@ html {
 }
 
 .publication-title {
-  color: #1f3f13;
+  color: #222;
   font-size: 1.02em;
   font-weight: 500;
 }
@@ -277,9 +277,9 @@ html {
   margin-right: 0.35em;
   margin-bottom: 0.14em;
   padding: 0.02em 0.45em 0.06em;
-  border: 2.5px solid #1f3f13;
+  border: 2.5px solid #234e7d;
   border-radius: 0.55em;
-  color: #111;
+  color: #234e7d;
   font-weight: 700;
   line-height: 1.35;
   white-space: nowrap;
@@ -287,7 +287,7 @@ html {
 
 .publication-authors,
 .publication-venue {
-  color: #1f3f13;
+  color: #222;
 }
 
 .publication-authors {
@@ -317,4 +317,3 @@ html {
     padding: 0.01em 0.4em 0.05em;
   }
 }
-

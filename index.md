@@ -130,8 +130,7 @@ For a full list of publications, please visit my [Google Scholar](https://schola
   <li><strong>Qu Bochuan (President) Scholarship</strong>, Dalian University of Technology, 2021.</li>
   <li><strong>First Prize</strong>, China National University Computer Competition, 2021.</li>
   <li><strong>Special Prize</strong>, China National University Computer Competition, 2019.</li>
-  <li><strong>Second-Class Merit Scholarship</strong>, Dalian University of Technology, 2019.</li>
-  <li><strong>Scientific and Technological Innovation Scholarship</strong>, Dalian University of Technology, 2019.</li>
+ <li><strong>Scientific and Technological Innovation Scholarship</strong>, Dalian University of Technology, 2019.</li>
 </ul>
 
 
