@@ -39,29 +39,30 @@ Computer and Communications Security (ACM CCS), 2026.</li>
 <div id="publications" class="anchor-offset"></div>
 <h2>Selected Publications</h2>
 
-- **When Butterfly Meets Photoacoustic Effect**  
-  <u>Lupeng Zhang</u>, Minhao Cui, Qing Wang, Jie Xiong.
+- When Butterfly Meets Photoacoustic Effect  
+  **Lupeng Zhang**, Minhao Cui, Qing Wang, Jie Xiong.  
   *ACM Conference on Mobile Computing and Networking (MobiCom '26)*, 2026.
 
-- **From One Form of Energy to Another: Laser-Induced Injection Attacks on Acoustic Sensing**  
-  <u>Lupeng Zhang</u>, Minhao Cui, Wenwei Li, Xuefu Dong, Qing Wang, Lei Wang, Daqing Zhang, Lili Qiu, Jie Xiong.
+- From One Form of Energy to Another: Laser-Induced Injection Attacks on Acoustic Sensing  
+  **Lupeng Zhang**, Minhao Cui, Wenwei Li, Xuefu Dong, Qing Wang, Lei Wang, Daqing Zhang, Lili Qiu, Jie Xiong.  
   *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp '26)*, 2026.
 
-- **AquaKey: Exploiting the Randomness of the Underwater Visible Light Communication Channel for Key Extraction**  
-  <u>Lupeng Zhang</u>, Pingchuan Wang, Minhao Cui, Jingwen Wei, Yu Tian, Jingchi Zhang, Jie Xiong, and Lei Wang.  
+- AquaKey: Exploiting the Randomness of the Underwater Visible Light Communication Channel for Key Extraction  
+  **Lupeng Zhang**, Pingchuan Wang, Minhao Cui, Jingwen Wei, Yu Tian, Jingchi Zhang, Jie Xiong, and Lei Wang.  
   *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp '24)*, 2024, 8(1): 1–25.
 
-- **MoiréEar: Moiré Can See What You Cannot Hear**  
-  Hongqiang Zhang, <u>Lupeng Zhang</u>, Chengcheng Zhao, Yuanchao Shu, Peng Cheng, Jiming Chen, and Jie Xiong.  
+- MoiréEar: Moiré Can See What You Cannot Hear  
+  Hongqiang Zhang, **Lupeng Zhang**, Chengcheng Zhao, Yuanchao Shu, Peng Cheng, Jiming Chen, and Jie Xiong.  
   *Proceedings of the ACM Conference on Embedded Networked Sensor Systems (SenSys)*, 2026.
 
-- **From a Point to Hundreds: Embracing LiDAR on Commodity Smartphones for Fine-grained Pulmonary Function Sensing**  
-  Xuefu Dong, Wenwei Li, Minhao Cui, Zilong Wang, <u>Lupeng Zhang</u>, Akihito Taya, Yuuki Nishiyama, Kaoru Sezaki, Lili Qiu, and Jie Xiong.  
+- From a Point to Hundreds: Embracing LiDAR on Commodity Smartphones for Fine-grained Pulmonary Function Sensing  
+  Xuefu Dong, Wenwei Li, Minhao Cui, Zilong Wang, **Lupeng Zhang**, Akihito Taya, Yuuki Nishiyama, Kaoru Sezaki, Lili Qiu, and Jie Xiong.  
   *Proceedings of the ACM Conference on Embedded Networked Sensor Systems (SenSys)*, 2026.
 
-- **UniQR: A Secure QR Code Payment Scheme Using Device Pose and Environmental Matching**  
-  Jingwen Wei, <u>Lupeng Zhang</u>, Jingchi Zhang, Bin Han, and Lei Wang.  
+- UniQR: A Secure QR Code Payment Scheme Using Device Pose and Environmental Matching  
+  Jingwen Wei, **Lupeng Zhang**, Jingchi Zhang, Bin Han, and Lei Wang.  
   *IEEE International Conference on Sensing, Communication, and Networking (SECON)*, 2024, pp. 1–9.
+
 
 [//]: # (- **An Adaptive and Robust Secret Key Extraction Scheme from High Noise Wireless Channel in IIoT**  )
 
