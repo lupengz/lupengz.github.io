@@ -47,7 +47,7 @@ Computer and Communications Security (ACM CCS), 2026.</li>
   <u>Lupeng Zhang</u>, Minhao Cui, Wenwei Li, Xuefu Dong, Qing Wang, Lei Wang, Daqing Zhang, Lili Qiu, Jie Xiong.
   *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp '26)*, 2026.
 
-- **Aquakey: Exploiting the Randomness of the Underwater Visible Light Communication Channel for Key Extraction**  
+- **AquaKey: Exploiting the Randomness of the Underwater Visible Light Communication Channel for Key Extraction**  
   <u>Lupeng Zhang</u>, Pingchuan Wang, Minhao Cui, Jingwen Wei, Yu Tian, Jingchi Zhang, Jie Xiong, and Lei Wang.  
   *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp '24)*, 2024, 8(1): 1–25.
 
