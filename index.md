@@ -39,29 +39,43 @@ Computer and Communications Security (ACM CCS), 2026.</li>
 <div id="publications" class="anchor-offset"></div>
 <h2>Selected Publications</h2>
 
-- When Butterfly Meets Photoacoustic Effect  
-  **Lupeng Zhang**, Minhao Cui, Qing Wang, Jie Xiong.  
-  *ACM Conference on Mobile Computing and Networking (MobiCom '26)*, 2026.
+<ul class="publication-list">
+  <li class="publication-item">
+    <div class="publication-title"><span class="publication-badge">MobiCom '26</span>When Butterfly Meets Photoacoustic Effect</div>
+    <div class="publication-authors"><strong>Lupeng Zhang</strong>, Minhao Cui, Qing Wang, Jie Xiong.</div>
+    <div class="publication-venue">ACM Conference on Mobile Computing and Networking, 2026.</div>
+  </li>
 
-- From One Form of Energy to Another: Laser-Induced Injection Attacks on Acoustic Sensing  
-  **Lupeng Zhang**, Minhao Cui, Wenwei Li, Xuefu Dong, Qing Wang, Lei Wang, Daqing Zhang, Lili Qiu, Jie Xiong.  
-  *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp '26)*, 2026.
+  <li class="publication-item">
+    <div class="publication-title"><span class="publication-badge">IMWUT/UbiComp '26</span>From One Form of Energy to Another: Laser-Induced Injection Attacks on Acoustic Sensing</div>
+    <div class="publication-authors"><strong>Lupeng Zhang</strong>, Minhao Cui, Wenwei Li, Xuefu Dong, Qing Wang, Lei Wang, Daqing Zhang, Lili Qiu, Jie Xiong.</div>
+    <div class="publication-venue">ACM Interactive, Mobile, Wearable and Ubiquitous Technologies, 2026.</div>
+  </li>
 
-- AquaKey: Exploiting the Randomness of the Underwater Visible Light Communication Channel for Key Extraction  
-  **Lupeng Zhang**, Pingchuan Wang, Minhao Cui, Jingwen Wei, Yu Tian, Jingchi Zhang, Jie Xiong, and Lei Wang.  
-  *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp '24)*, 2024, 8(1): 1–25.
+  <li class="publication-item">
+    <div class="publication-title"><span class="publication-badge">IMWUT/UbiComp '24</span>AquaKey: Exploiting the Randomness of the Underwater Visible Light Communication Channel for Key Extraction</div>
+    <div class="publication-authors"><strong>Lupeng Zhang</strong>, Pingchuan Wang, Minhao Cui, Jingwen Wei, Yu Tian, Jingchi Zhang, Jie Xiong, Lei Wang.</div>
+    <div class="publication-venue">ACM Interactive, Mobile, Wearable and Ubiquitous Technologies, 2024, 8(1): 1–25.</div>
+  </li>
 
-- MoiréEar: Moiré Can See What You Cannot Hear  
-  Hongqiang Zhang, **Lupeng Zhang**, Chengcheng Zhao, Yuanchao Shu, Peng Cheng, Jiming Chen, and Jie Xiong.  
-  *Proceedings of the ACM Conference on Embedded Networked Sensor Systems (SenSys)*, 2026.
+  <li class="publication-item">
+    <div class="publication-title"><span class="publication-badge">SenSys '26</span>MoiréEar: Moiré Can See What You Cannot Hear</div>
+    <div class="publication-authors">Hongqiang Zhang, <strong>Lupeng Zhang</strong>, Chengcheng Zhao, Yuanchao Shu, Peng Cheng, Jiming Chen, Jie Xiong.</div>
+    <div class="publication-venue">Proceedings of the ACM Conference on Embedded Networked Sensor Systems, 2026.</div>
+  </li>
 
-- From a Point to Hundreds: Embracing LiDAR on Commodity Smartphones for Fine-grained Pulmonary Function Sensing  
-  Xuefu Dong, Wenwei Li, Minhao Cui, Zilong Wang, **Lupeng Zhang**, Akihito Taya, Yuuki Nishiyama, Kaoru Sezaki, Lili Qiu, and Jie Xiong.  
-  *Proceedings of the ACM Conference on Embedded Networked Sensor Systems (SenSys)*, 2026.
+  <li class="publication-item">
+    <div class="publication-title"><span class="publication-badge">SenSys '26</span>From a Point to Hundreds: Embracing LiDAR on Commodity Smartphones for Fine-grained Pulmonary Function Sensing</div>
+    <div class="publication-authors">Xuefu Dong, Wenwei Li, Minhao Cui, Zilong Wang, <strong>Lupeng Zhang</strong>, Akihito Taya, Yuuki Nishiyama, Kaoru Sezaki, Lili Qiu, Jie Xiong.</div>
+    <div class="publication-venue">Proceedings of the ACM Conference on Embedded Networked Sensor Systems, 2026.</div>
+  </li>
 
-- UniQR: A Secure QR Code Payment Scheme Using Device Pose and Environmental Matching  
-  Jingwen Wei, **Lupeng Zhang**, Jingchi Zhang, Bin Han, and Lei Wang.  
-  *IEEE International Conference on Sensing, Communication, and Networking (SECON)*, 2024, pp. 1–9.
+  <li class="publication-item">
+    <div class="publication-title"><span class="publication-badge">SECON '24</span>UniQR: A Secure QR Code Payment Scheme Using Device Pose and Environmental Matching</div>
+    <div class="publication-authors">Jingwen Wei, <strong>Lupeng Zhang</strong>, Jingchi Zhang, Bin Han, Lei Wang.</div>
+    <div class="publication-venue">IEEE International Conference on Sensing, Communication, and Networking, 2024, pp. 1–9.</div>
+  </li>
+</ul>
 
 
 [//]: # (- **An Adaptive and Robust Secret Key Extraction Scheme from High Noise Wireless Channel in IIoT**  )

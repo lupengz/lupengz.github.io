@@ -254,4 +254,67 @@ html {
   height: 0;
 }
 
+.publication-list {
+  margin-top: 0.2em;
+  margin-bottom: 0.8em;
+  padding-left: 1.15em;
+}
+
+.publication-list .publication-item {
+  margin-bottom: 0.55em;
+  padding-left: 0.15em;
+  line-height: 1.45;
+}
+
+.publication-title {
+  color: #1f3f13;
+  font-size: 1.02em;
+  font-weight: 500;
+}
+
+.publication-badge {
+  display: inline-block;
+  margin-right: 0.35em;
+  margin-bottom: 0.14em;
+  padding: 0.02em 0.45em 0.06em;
+  border: 2.5px solid #1f3f13;
+  border-radius: 0.55em;
+  color: #111;
+  font-weight: 700;
+  line-height: 1.35;
+  white-space: nowrap;
+}
+
+.publication-authors,
+.publication-venue {
+  color: #1f3f13;
+}
+
+.publication-authors {
+  margin-top: 0.08em;
+}
+
+.publication-venue {
+  margin-top: 0.02em;
+}
+
+@media screen and (max-width: 768px) {
+  .publication-list {
+    padding-left: 1em;
+  }
+
+  .publication-list .publication-item {
+    margin-bottom: 0.7em;
+  }
+
+  .publication-title {
+    font-size: 1em;
+  }
+
+  .publication-badge {
+    border-width: 2px;
+    border-radius: 0.5em;
+    padding: 0.01em 0.4em 0.05em;
+  }
+}
 
