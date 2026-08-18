@@ -24,7 +24,7 @@ I received my B.Eng. in Network Engineering from Dalian University of Technology
 <h2>News</h2>
 
 <ul class="compact-list">
-<li><strong>Jun 2026: One paper has been conditionally accepted at ACM MobiCom 2026!</strong></li>
+<li><strong>Jun 2026: One paper was accepted at ACM MobiCom 2026!</strong></li>
 <li><strong>Jun 2026:</strong> Happy to serve as an Artifact Evaluation Committee Member for NDSS 2027.</li>
 <li><strong>May 2026:</strong> Happy to serve as an Artifact Evaluation Committee Member for ACM Conference on
 Computer and Communications Security (ACM CCS), 2026.</li>
@@ -38,6 +38,10 @@ Computer and Communications Security (ACM CCS), 2026.</li>
 
 <div id="publications" class="anchor-offset"></div>
 <h2>Selected Publications</h2>
+
+- **When Butterfly Meets Photoacoustic Effect**  
+  <u>Lupeng Zhang</u>, Minhao Cui, Qing Wang, Jie Xiong.
+  *ACM Conference on Mobile Computing and Networking (MobiCom '26)*, 2026.
 
 - **From One Form of Energy to Another: Laser-Induced Injection Attacks on Acoustic Sensing**  
   <u>Lupeng Zhang</u>, Minhao Cui, Wenwei Li, Xuefu Dong, Qing Wang, Lei Wang, Daqing Zhang, Lili Qiu, Jie Xiong.
