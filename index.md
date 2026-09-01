@@ -24,8 +24,9 @@ I received my B.Eng. in Network Engineering from Dalian University of Technology
 <h2>News</h2>
 
 <ul class="compact-list">
-<li><strong>Jun 2026: One paper was accepted at ACM MobiCom 2026!</strong></li>
-<li><strong>Jun 2026:</strong> Happy to serve as an Artifact Evaluation Committee Member for NDSS 2027.</li>
+<li><strong>Sep. 2026:</strong> Honored to receive the ACM SIGMOBILE Student Travel Grant for ACM MobiCom 2026.</li>
+<li><strong>Jun. 2026: One paper was accepted at ACM MobiCom 2026.</strong></li>
+<li><strong>Jun. 2026:</strong> Happy to serve as an Artifact Evaluation Committee Member for NDSS 2027.</li>
 <li><strong>May 2026:</strong> Happy to serve as an Artifact Evaluation Committee Member for ACM Conference on
 Computer and Communications Security (ACM CCS), 2026.</li>
 <li><strong>May 2026: Our <em>MoieEar</em> paper received the Best Paper Honorable Mention Award at SenSys 2026!</strong></li>
@@ -122,6 +123,7 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 <h2>Honors and Awards</h2>
 
 <ul>
+  <li><strong>ACM SIGMOBILE Student Travel Grant,</strong> ACM MobiCom, 2026.</li>
   <li><strong>SenSys '26 Best Paper Honorable Mention Award,</strong> IEEE/ACM SenSys, 2026.</li>
   <li><strong>NTU Research Scholarship</strong>, Nanyang Technological University, 2025.</li>
   <li><strong>Longcheng Laboratory Scholarship</strong>, 2024.</li>
