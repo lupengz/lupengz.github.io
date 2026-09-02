@@ -3,6 +3,7 @@ layout: single
 author_profile: true
 title: ""
 permalink: /
+
 ---
 
 <div id="typewriter-title"></div>
@@ -19,6 +20,7 @@ and
 <a href="https://minhaocui.github.io/">Prof. Minhao Cui</a>!
 I received my B.Eng. in Network Engineering from Dalian University of Technology, where I had the pleasure of being advised by <a href="https://faculty.dlut.edu.cn/leiwang/zh_CN/index/706091/list/index.htm">Prof. Lei Wang</a>!
 </p>
+
 
 <div id="news" class="anchor-offset"></div>
 <h2>News</h2>
@@ -37,71 +39,73 @@ Computer and Communications Security (ACM CCS), 2026.</li>
   <li><strong>Mar. 2024:</strong> I was offered an intern position at Microsoft Research Asia, Shanghai!</li>
 </ul>
 
+
 <div id="publications" class="anchor-offset"></div>
 <h2>Selected Publications</h2>
 
 <ul class="publication-list">
   <li class="publication-item">
-    <span class="publication-badge">MobiCom '26</span>
-    <div class="publication-details">
-      <div class="publication-title">When Butterfly Meets Photoacoustic Effect</div>
-      <div class="publication-authors"><strong>Lupeng Zhang</strong>, Minhao Cui, Qing Wang, Jie Xiong.</div>
-      <div class="publication-venue">ACM Conference on Mobile Computing and Networking, 2026.</div>
+    <div class="publication-heading">
+      <span class="publication-badge">MobiCom '26</span>
+      <span class="publication-title">When Butterfly Meets Photoacoustic Effect</span>
     </div>
+    <div class="publication-authors"><strong>Lupeng Zhang</strong>, Minhao Cui, Qing Wang, Jie Xiong.</div>
+    <div class="publication-venue">ACM Conference on Mobile Computing and Networking, 2026.</div>
+  </li>
+
+
+  <li class="publication-item">
+    <div class="publication-heading">
+      <span class="publication-badge">IMWUT/UbiComp '26</span>
+      <span class="publication-title">From One Form of Energy to Another: Laser-Induced Injection Attacks on Acoustic Sensing</span>
+    </div>
+    <div class="publication-authors"><strong>Lupeng Zhang</strong>, Minhao Cui, Wenwei Li, Xuefu Dong, Qing Wang, Lei Wang, Daqing Zhang, Lili Qiu, Jie Xiong.</div>
+    <div class="publication-venue">ACM Interactive, Mobile, Wearable and Ubiquitous Technologies, 2026.</div>
   </li>
 
   <li class="publication-item">
-    <span class="publication-badge">IMWUT/UbiComp '26</span>
-    <div class="publication-details">
-      <div class="publication-title">From One Form of Energy to Another: Laser-Induced Injection Attacks on Acoustic Sensing</div>
-      <div class="publication-authors"><strong>Lupeng Zhang</strong>, Minhao Cui, Wenwei Li, Xuefu Dong, Qing Wang, Lei Wang, Daqing Zhang, Lili Qiu, Jie Xiong.</div>
-      <div class="publication-venue">ACM Interactive, Mobile, Wearable and Ubiquitous Technologies, 2026.</div>
+    <div class="publication-heading">
+      <span class="publication-badge">IMWUT/UbiComp '24</span>
+      <span class="publication-title">AquaKey: Exploiting the Randomness of the Underwater Visible Light Communication Channel for Key Extraction</span>
     </div>
+    <div class="publication-authors"><strong>Lupeng Zhang</strong>, Pingchuan Wang, Minhao Cui, Jingwen Wei, Yu Tian, Jingchi Zhang, Jie Xiong, Lei Wang.</div>
+    <div class="publication-venue">ACM Interactive, Mobile, Wearable and Ubiquitous Technologies, 2024, 8(1): 1–25.</div>
   </li>
 
   <li class="publication-item">
-    <span class="publication-badge">IMWUT/UbiComp '24</span>
-    <div class="publication-details">
-      <div class="publication-title">AquaKey: Exploiting the Randomness of the Underwater Visible Light Communication Channel for Key Extraction</div>
-      <div class="publication-authors"><strong>Lupeng Zhang</strong>, Pingchuan Wang, Minhao Cui, Jingwen Wei, Yu Tian, Jingchi Zhang, Jie Xiong, Lei Wang.</div>
-      <div class="publication-venue">ACM Interactive, Mobile, Wearable and Ubiquitous Technologies, 2024, 8(1): 1–25.</div>
+    <div class="publication-heading">
+      <span class="publication-badge">IMWUT/UbiComp '26</span>
+      <span class="publication-title">AirComm: Your Smartphone Can “Smell” Fine Particles via Light</span>
     </div>
+    <div class="publication-authors">Yang Chi, <strong>Lupeng Zhang</strong>, Xinlei Li, Chi Lin, Jie Xiong.</div>
+    <div class="publication-venue">ACM Interactive, Mobile, Wearable and Ubiquitous Technologies, 2026.</div>
   </li>
 
   <li class="publication-item">
-    <span class="publication-badge">IMWUT/UbiComp '26</span>
-    <div class="publication-details">
-      <div class="publication-title">AirComm: Your Smartphone Can “Smell” Fine Particles via Light</div>
-      <div class="publication-authors">Yang Chi, <strong>Lupeng Zhang</strong>, Xinlei Li, Chi Lin, Jie Xiong.</div>
-      <div class="publication-venue">ACM Interactive, Mobile, Wearable and Ubiquitous Technologies, 2026.</div>
+    <div class="publication-heading">
+      <span class="publication-badge">SenSys '26</span>
+      <span class="publication-title">MoiréEar: Moiré Can See What You Cannot Hear</span>
     </div>
+    <div class="publication-authors">Hongqiang Zhang, <strong>Lupeng Zhang</strong>, Chengcheng Zhao, Yuanchao Shu, Peng Cheng, Jiming Chen, Jie Xiong.</div>
+    <div class="publication-venue">Proceedings of the ACM Conference on Embedded Networked Sensor Systems, 2026.</div>
   </li>
 
   <li class="publication-item">
-    <span class="publication-badge">SenSys '26</span>
-    <div class="publication-details">
-      <div class="publication-title">MoiréEar: Moiré Can See What You Cannot Hear</div>
-      <div class="publication-authors">Hongqiang Zhang, <strong>Lupeng Zhang</strong>, Chengcheng Zhao, Yuanchao Shu, Peng Cheng, Jiming Chen, Jie Xiong.</div>
-      <div class="publication-venue">Proceedings of the ACM Conference on Embedded Networked Sensor Systems, 2026.</div>
+    <div class="publication-heading">
+      <span class="publication-badge">SenSys '26</span>
+      <span class="publication-title">From a Point to Hundreds: Embracing LiDAR on Commodity Smartphones for Fine-grained Pulmonary Function Sensing</span>
     </div>
+    <div class="publication-authors">Xuefu Dong, Wenwei Li, Minhao Cui, Zilong Wang, <strong>Lupeng Zhang</strong>, Akihito Taya, Yuuki Nishiyama, Kaoru Sezaki, Lili Qiu, Jie Xiong.</div>
+    <div class="publication-venue">Proceedings of the ACM Conference on Embedded Networked Sensor Systems, 2026.</div>
   </li>
 
   <li class="publication-item">
-    <span class="publication-badge">SenSys '26</span>
-    <div class="publication-details">
-      <div class="publication-title">From a Point to Hundreds: Embracing LiDAR on Commodity Smartphones for Fine-grained Pulmonary Function Sensing</div>
-      <div class="publication-authors">Xuefu Dong, Wenwei Li, Minhao Cui, Zilong Wang, <strong>Lupeng Zhang</strong>, Akihito Taya, Yuuki Nishiyama, Kaoru Sezaki, Lili Qiu, Jie Xiong.</div>
-      <div class="publication-venue">Proceedings of the ACM Conference on Embedded Networked Sensor Systems, 2026.</div>
+    <div class="publication-heading">
+      <span class="publication-badge">SECON '24</span>
+      <span class="publication-title">UniQR: A Secure QR Code Payment Scheme Using Device Pose and Environmental Matching</span>
     </div>
-  </li>
-
-  <li class="publication-item">
-    <span class="publication-badge">SECON '24</span>
-    <div class="publication-details">
-      <div class="publication-title">UniQR: A Secure QR Code Payment Scheme Using Device Pose and Environmental Matching</div>
-      <div class="publication-authors">Jingwen Wei, <strong>Lupeng Zhang</strong>, Jingchi Zhang, Bin Han, Lei Wang.</div>
-      <div class="publication-venue">IEEE International Conference on Sensing, Communication, and Networking, 2024, pp. 1–9.</div>
-    </div>
+    <div class="publication-authors">Jingwen Wei, <strong>Lupeng Zhang</strong>, Jingchi Zhang, Bin Han, Lei Wang.</div>
+    <div class="publication-venue">IEEE International Conference on Sensing, Communication, and Networking, 2024, pp. 1–9.</div>
   </li>
 </ul>
 
@@ -112,7 +116,7 @@ Computer and Communications Security (ACM CCS), 2026.</li>
 
 [//]: # (  *Digital Communications and Networks &#40;DCN&#41;*, 2023, 9&#40;4&#41;: 809–816.)
 
-[//]: # ()
+[//]: #
 [//]: # (- **A Blockchain-Assisted Massive IoT Data Collection Intelligent Framework**  )
 
 [//]: # (  <u>Lupeng Zhang</u>, Fengqi Li, Pingchuan Wang, Rui Su, and Zongzheng Chi.  )
@@ -121,7 +125,7 @@ Computer and Communications Security (ACM CCS), 2026.</li>
 
 For a full list of publications, please visit my [Google Scholar](https://scholar.google.com/citations?user=a0AKXBkAAAAJ).
 
-[//]: # ()
+[//]: #
 [//]: # (<ul>)
 
 [//]: # (  <li>)
@@ -164,6 +168,7 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 
 
 
+
 <div id="experience" class="anchor-offset"></div>
 <h2>Industry Experience</h2>
 
@@ -174,6 +179,7 @@ For a full list of publications, please visit my [Google Scholar](https://schola
     Mar. 2024 – Sep. 2024
   </li>
 </ul>
+
 
 <div id="service" class="anchor-offset"></div>
 <h2>Service</h2>
@@ -213,14 +219,16 @@ For a full list of publications, please visit my [Google Scholar](https://schola
   <li><strong>Currently learning:</strong> traditional Chinese medicine, especially cupping and Chinese herbal medicine.</li>
 </ul>
 
+
 <div id="cat-widget" class="cat-widget" title="Click me!">
   <img id="cat-img" src="/assets/images/chi-cat-icon.png" alt="Cute cat">
   <span id="cat-meow" class="cat-meow">Meow~</span>
 </div>
 
+
 [//]: # (<h2>Visitors</h2>)
 
-[//]: # ()
+[//]: #
 [//]: # (<div style="max-width: 300px; margin: 24px auto; text-align: center;">)
 
 [//]: # (  <a href="https://mapmyvisitors.com/web/1c3ap" title="Visit tracker" target="_blank" rel="noopener noreferrer">)
