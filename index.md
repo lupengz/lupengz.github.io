@@ -59,6 +59,12 @@ Computer and Communications Security (ACM CCS), 2026.</li>
     <div class="publication-venue">ACM Interactive, Mobile, Wearable and Ubiquitous Technologies, 2024, 8(1): 1–25.</div>
   </li>
 
+<li class="publication-item">
+  <div class="publication-title"><span class="publication-badge">IMWUT/UbiComp '26</span>AirComm: Your Smartphone Can “Smell” Fine Particles via Light</div>
+  <div class="publication-authors">Yang Chi, <strong>Lupeng Zhang</strong>, Xinlei Li, Chi Lin, Jie Xiong.</div>
+  <div class="publication-venue">ACM Interactive, Mobile, Wearable and Ubiquitous Technologies, 2026.</div>
+</li>
+
   <li class="publication-item">
     <div class="publication-title"><span class="publication-badge">SenSys '26</span>MoiréEar: Moiré Can See What You Cannot Hear</div>
     <div class="publication-authors">Hongqiang Zhang, <strong>Lupeng Zhang</strong>, Chengcheng Zhao, Yuanchao Shu, Peng Cheng, Jiming Chen, Jie Xiong.</div>
