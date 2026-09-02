@@ -42,43 +42,64 @@ Computer and Communications Security (ACM CCS), 2026.</li>
 
 <ul class="publication-list">
   <li class="publication-item">
-    <div class="publication-title"><span class="publication-badge">MobiCom '26</span>When Butterfly Meets Photoacoustic Effect</div>
+    <div class="publication-title">
+      <span class="publication-badge">MobiCom '26</span>
+      <span class="publication-title-text">When Butterfly Meets Photoacoustic Effect</span>
+    </div>
     <div class="publication-authors"><strong>Lupeng Zhang</strong>, Minhao Cui, Qing Wang, Jie Xiong.</div>
     <div class="publication-venue">ACM Conference on Mobile Computing and Networking, 2026.</div>
   </li>
 
   <li class="publication-item">
-    <div class="publication-title"><span class="publication-badge">IMWUT/UbiComp '26</span>From One Form of Energy to Another: Laser-Induced Injection Attacks on Acoustic Sensing</div>
+    <div class="publication-title">
+      <span class="publication-badge">IMWUT/UbiComp '26</span>
+      <span class="publication-title-text">From One Form of Energy to Another: Laser-Induced Injection Attacks on Acoustic Sensing</span>
+    </div>
     <div class="publication-authors"><strong>Lupeng Zhang</strong>, Minhao Cui, Wenwei Li, Xuefu Dong, Qing Wang, Lei Wang, Daqing Zhang, Lili Qiu, Jie Xiong.</div>
     <div class="publication-venue">ACM Interactive, Mobile, Wearable and Ubiquitous Technologies, 2026.</div>
   </li>
 
   <li class="publication-item">
-    <div class="publication-title"><span class="publication-badge">IMWUT/UbiComp '24</span>AquaKey: Exploiting the Randomness of the Underwater Visible Light Communication Channel for Key Extraction</div>
+    <div class="publication-title">
+      <span class="publication-badge">IMWUT/UbiComp '24</span>
+      <span class="publication-title-text">AquaKey: Exploiting the Randomness of the Underwater Visible Light Communication Channel for Key Extraction</span>
+    </div>
     <div class="publication-authors"><strong>Lupeng Zhang</strong>, Pingchuan Wang, Minhao Cui, Jingwen Wei, Yu Tian, Jingchi Zhang, Jie Xiong, Lei Wang.</div>
     <div class="publication-venue">ACM Interactive, Mobile, Wearable and Ubiquitous Technologies, 2024, 8(1): 1–25.</div>
   </li>
 
-<li class="publication-item">
-  <div class="publication-title"><span class="publication-badge">IMWUT/UbiComp '26</span>AirComm: Your Smartphone Can “Smell” Fine Particles via Light</div>
-  <div class="publication-authors">Yang Chi, <strong>Lupeng Zhang</strong>, Xinlei Li, Chi Lin, Jie Xiong.</div>
-  <div class="publication-venue">ACM Interactive, Mobile, Wearable and Ubiquitous Technologies, 2026.</div>
-</li>
+  <li class="publication-item">
+    <div class="publication-title">
+      <span class="publication-badge">IMWUT/UbiComp '26</span>
+      <span class="publication-title-text">AirComm: Your Smartphone Can “Smell” Fine Particles via Light</span>
+    </div>
+    <div class="publication-authors">Yang Chi, <strong>Lupeng Zhang</strong>, Xinlei Li, Chi Lin, Jie Xiong.</div>
+    <div class="publication-venue">ACM Interactive, Mobile, Wearable and Ubiquitous Technologies, 2026.</div>
+  </li>
 
   <li class="publication-item">
-    <div class="publication-title"><span class="publication-badge">SenSys '26</span>MoiréEar: Moiré Can See What You Cannot Hear</div>
+    <div class="publication-title">
+      <span class="publication-badge">SenSys '26</span>
+      <span class="publication-title-text">MoiréEar: Moiré Can See What You Cannot Hear</span>
+    </div>
     <div class="publication-authors">Hongqiang Zhang, <strong>Lupeng Zhang</strong>, Chengcheng Zhao, Yuanchao Shu, Peng Cheng, Jiming Chen, Jie Xiong.</div>
     <div class="publication-venue">Proceedings of the ACM Conference on Embedded Networked Sensor Systems, 2026.</div>
   </li>
 
   <li class="publication-item">
-    <div class="publication-title"><span class="publication-badge">SenSys '26</span>From a Point to Hundreds: Embracing LiDAR on Commodity Smartphones for Fine-grained Pulmonary Function Sensing</div>
+    <div class="publication-title">
+      <span class="publication-badge">SenSys '26</span>
+      <span class="publication-title-text">From a Point to Hundreds: Embracing LiDAR on Commodity Smartphones for Fine-grained Pulmonary Function Sensing</span>
+    </div>
     <div class="publication-authors">Xuefu Dong, Wenwei Li, Minhao Cui, Zilong Wang, <strong>Lupeng Zhang</strong>, Akihito Taya, Yuuki Nishiyama, Kaoru Sezaki, Lili Qiu, Jie Xiong.</div>
     <div class="publication-venue">Proceedings of the ACM Conference on Embedded Networked Sensor Systems, 2026.</div>
   </li>
 
   <li class="publication-item">
-    <div class="publication-title"><span class="publication-badge">SECON '24</span>UniQR: A Secure QR Code Payment Scheme Using Device Pose and Environmental Matching</div>
+    <div class="publication-title">
+      <span class="publication-badge">SECON '24</span>
+      <span class="publication-title-text">UniQR: A Secure QR Code Payment Scheme Using Device Pose and Environmental Matching</span>
+    </div>
     <div class="publication-authors">Jingwen Wei, <strong>Lupeng Zhang</strong>, Jingchi Zhang, Bin Han, Lei Wang.</div>
     <div class="publication-venue">IEEE International Conference on Sensing, Communication, and Networking, 2024, pp. 1–9.</div>
   </li>
