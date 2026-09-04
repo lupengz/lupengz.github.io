@@ -27,7 +27,7 @@ I received my B.Eng. in Network Engineering from Dalian University of Technology
 
 
 <ul class="compact-list">
-  <li><strong>Jun. 2026:</strong> Serving as an Artifact Evaluation Committee Member for IEEE S&amp;P 2027.</li>
+  <li><strong>Sep. 2026:</strong> Serving as an Artifact Evaluation Committee Member for IEEE S&amp;P 2027.</li>
   <li><strong>Sep. 2026: Honored to receive the ACM SIGMOBILE Student Travel Grant for ACM MobiCom 2026.</strong></li>
   <li><strong>Jun. 2026: One paper was accepted at ACM MobiCom 2026.</strong></li>
   <li><strong>Jun. 2026:</strong> Serving as an Artifact Evaluation Committee Member for NDSS 2027.</li>
