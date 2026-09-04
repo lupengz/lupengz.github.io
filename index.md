@@ -25,19 +25,22 @@ I received my B.Eng. in Network Engineering from Dalian University of Technology
 <div id="news" class="anchor-offset"></div>
 <h2>News</h2>
 
+
 <ul class="compact-list">
-<li><strong>Sep. 2026: Honored to receive the ACM SIGMOBILE Student Travel Grant for ACM MobiCom 2026.</strong></li>
-<li><strong>Jun. 2026: One paper was accepted at ACM MobiCom 2026.</strong></li>
-<li><strong>Jun. 2026:</strong> Happy to serve as an Artifact Evaluation Committee Member for NDSS 2027.</li>
-<li><strong>May 2026:</strong> Happy to serve as an Artifact Evaluation Committee Member for ACM Conference on
-Computer and Communications Security (ACM CCS), 2026.</li>
-<li><strong>May 2026: Our <em>MoieEar</em> paper received the Best Paper Honorable Mention Award at SenSys 2026!</strong></li>
+  <li><strong>Jun. 2026:</strong> Serving as an Artifact Evaluation Committee Member for IEEE S&amp;P 2027.</li>
+  <li><strong>Sep. 2026: Honored to receive the ACM SIGMOBILE Student Travel Grant for ACM MobiCom 2026.</strong></li>
+  <li><strong>Jun. 2026: One paper was accepted at ACM MobiCom 2026.</strong></li>
+  <li><strong>Jun. 2026:</strong> Serving as an Artifact Evaluation Committee Member for NDSS 2027.</li>
+  <li><strong>May 2026:</strong> Serving as an Artifact Evaluation Committee Member for ACM CCS 2026.</li>
+  <li><strong>May 2026: Our <em>MoieEar</em> paper received the Best Paper Honorable Mention Award at SenSys 2026.</strong></li>
   <li><strong>Apr. 2026:</strong> One paper was accepted at IMWUT/UbiComp '26.</li>
-<li><strong>Mar. 2026:</strong> Happy to serve as an Artifact Evaluation Committee Member for IEEE Symposium on Security and Privacy (IEEE S&P), 2026.</li>
+  <li><strong>Mar. 2026:</strong> Serving as an Artifact Evaluation Committee Member for IEEE S&amp;P 2026.</li>
   <li><strong>Aug. 2025:</strong> Started my Ph.D. journey at Nanyang Technological University!</li>
-  <li><strong>Oct. 2024:</strong> Presented <em>Aquakey</em> at UbiComp'24 in Melbourne, Australia.</li>
+  <li><strong>Oct. 2024:</strong> Presented <em>AquaKey</em> at UbiComp '24 in Melbourne, Australia.</li>
   <li><strong>Mar. 2024:</strong> I was offered an intern position at Microsoft Research Asia, Shanghai!</li>
 </ul>
+
+
 
 
 <div id="publications" class="anchor-offset"></div>
@@ -184,7 +187,9 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 <div id="service" class="anchor-offset"></div>
 <h2>Service</h2>
 
-- **Artifact Evaluation Committee Member**, *NDSS*, 2027.
+- **Artifact Evaluation Committee Member**, *IEEE Symposium on Security and Privacy (IEEE S&P)*, 2027.
+
+- **Artifact Evaluation Committee Member**, *Network and Distributed System Security (NDSS) Symposium*, 2027.
 
 - **Artifact Evaluation Committee Member**, *ACM Conference on
   Computer and Communications Security (ACM CCS)*, 2026.
