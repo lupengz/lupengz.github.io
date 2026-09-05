@@ -27,6 +27,7 @@ I received my B.Eng. in Network Engineering from Dalian University of Technology
 
 
 <ul class="compact-list">
+  <li><strong>Sep. 2026: Honored to receive the N2Women Student Travel Grant for ACM MobiCom 2026.</strong></li>
   <li><strong>Sep. 2026:</strong> Serving as an Artifact Evaluation Committee Member for IEEE S&amp;P 2027.</li>
   <li><strong>Sep. 2026: Honored to receive the ACM SIGMOBILE Student Travel Grant for ACM MobiCom 2026.</strong></li>
   <li><strong>Jun. 2026: One paper was accepted at ACM MobiCom 2026.</strong></li>
@@ -157,6 +158,7 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 <h2>Honors and Awards</h2>
 
 <ul>
+  <li><strong>N2Women Student Travel Grant,</strong> ACM MobiCom, 2026.</li>
   <li><strong>ACM SIGMOBILE Student Travel Grant,</strong> ACM MobiCom, 2026.</li>
   <li><strong>SenSys '26 Best Paper Honorable Mention Award,</strong> IEEE/ACM SenSys, 2026.</li>
   <li><strong>NTU Research Scholarship</strong>, Nanyang Technological University, 2025.</li>
