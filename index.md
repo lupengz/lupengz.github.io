@@ -51,7 +51,7 @@ I received my B.Eng. in Network Engineering from Dalian University of Technology
   <li class="publication-item">
     <div class="publication-heading">
       <span class="publication-badge">MobiCom '26</span>
-      <span class="publication-title">When Butterfly Meets Photoacoustic Effect</span>
+      <span class="publication-title"><a href="/assets/papers/mobicom26-butterfly-photoacoustic.pdf" target="_blank" rel="noopener noreferrer">When Butterfly Meets Photoacoustic Effect</a></span>
     </div>
     <div class="publication-authors"><strong>Lupeng Zhang</strong>, Minhao Cui, Qing Wang, Jie Xiong.</div>
     <div class="publication-venue">ACM Conference on Mobile Computing and Networking, 2026.</div>

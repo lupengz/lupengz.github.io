@@ -217,6 +217,18 @@ a:focus {
   line-height: 1.28;
 }
 
+.publication-title a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.publication-title a:hover {
+  color: #234e7d;
+  text-decoration: underline;
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 0.16em;
+}
+
 .publication-badge {
   grid-column: 1;
   grid-row: 1;
