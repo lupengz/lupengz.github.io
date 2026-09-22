@@ -33,7 +33,8 @@ I received my B.Eng. in Network Engineering from Dalian University of Technology
   <li><strong>Jun. 2026: One paper was accepted at ACM MobiCom 2026.</strong></li>
   <li><strong>Jun. 2026:</strong> Serving as an Artifact Evaluation Committee Member for NDSS 2027.</li>
   <li><strong>May 2026:</strong> Serving as an Artifact Evaluation Committee Member for ACM CCS 2026.</li>
-  <li><strong>May 2026: Our <em>MoieEar</em> paper received the Best Paper Honorable Mention Award at SenSys 2026.</strong></li>
+
+[//]: # (  <li><strong>May 2026: Our <em>MoieEar</em> paper received the Best Paper Honorable Mention Award at SenSys 2026.</strong></li>)
   <li><strong>Apr. 2026:</strong> One paper was accepted at IMWUT/UbiComp '26.</li>
   <li><strong>Mar. 2026:</strong> Serving as an Artifact Evaluation Committee Member for IEEE S&amp;P 2026.</li>
   <li><strong>Aug. 2025:</strong> Started my Ph.D. journey at Nanyang Technological University!</li>
