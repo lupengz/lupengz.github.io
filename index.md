@@ -84,6 +84,15 @@ I received my B.Eng. in Network Engineering from Dalian University of Technology
     <div class="publication-venue">ACM Interactive, Mobile, Wearable and Ubiquitous Technologies, 2026.</div>
   </li>
 
+<li class="publication-item">
+    <div class="publication-heading">
+      <span class="publication-badge">SenSys '26</span>
+      <span class="publication-title">From a Point to Hundreds: Embracing LiDAR on Commodity Smartphones for Fine-grained Pulmonary Function Sensing</span>
+    </div>
+    <div class="publication-authors">Xuefu Dong, Wenwei Li, Minhao Cui, Zilong Wang, <strong>Lupeng Zhang</strong>, Akihito Taya, Yuuki Nishiyama, Kaoru Sezaki, Lili Qiu, Jie Xiong.</div>
+    <div class="publication-venue">Proceedings of the ACM Conference on Embedded Networked Sensor Systems, 2026.</div>
+  </li>
+
   <li class="publication-item">
     <div class="publication-heading">
       <span class="publication-badge">SenSys '26</span>
@@ -93,14 +102,6 @@ I received my B.Eng. in Network Engineering from Dalian University of Technology
     <div class="publication-venue">Proceedings of the ACM Conference on Embedded Networked Sensor Systems, 2026.</div>
   </li>
 
-  <li class="publication-item">
-    <div class="publication-heading">
-      <span class="publication-badge">SenSys '26</span>
-      <span class="publication-title">From a Point to Hundreds: Embracing LiDAR on Commodity Smartphones for Fine-grained Pulmonary Function Sensing</span>
-    </div>
-    <div class="publication-authors">Xuefu Dong, Wenwei Li, Minhao Cui, Zilong Wang, <strong>Lupeng Zhang</strong>, Akihito Taya, Yuuki Nishiyama, Kaoru Sezaki, Lili Qiu, Jie Xiong.</div>
-    <div class="publication-venue">Proceedings of the ACM Conference on Embedded Networked Sensor Systems, 2026.</div>
-  </li>
 
   <li class="publication-item">
     <div class="publication-heading">
