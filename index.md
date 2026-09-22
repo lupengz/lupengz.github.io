@@ -30,7 +30,7 @@ I received my B.Eng. in Network Engineering from Dalian University of Technology
   <li><strong>Sep. 2026: Honored to receive the N2Women Student Travel Grant for ACM MobiCom 2026.</strong></li>
   <li><strong>Sep. 2026:</strong> Serving as an Artifact Evaluation Committee Member for IEEE S&amp;P 2027.</li>
   <li><strong>Sep. 2026: Honored to receive the ACM SIGMOBILE Student Travel Grant for ACM MobiCom 2026.</strong></li>
-  <li><strong>Jun. 2026: One paper was accepted at ACM MobiCom 2026.</strong></li>
+  <li><strong>Jun. 2026: A beam of light makes butterfly wings sing. Check out our latest MobiCom ’26 paper, “When Butterfly Meets Photoacoustic Effect”!</strong></li>
   <li><strong>Jun. 2026:</strong> Serving as an Artifact Evaluation Committee Member for NDSS 2027.</li>
   <li><strong>May 2026:</strong> Serving as an Artifact Evaluation Committee Member for ACM CCS 2026.</li>
 
