@@ -50,7 +50,7 @@ I received my B.Eng. in Network Engineering from Dalian University of Technology
   <li class="publication-item">
     <div class="publication-heading">
       <span class="publication-badge">MobiCom '26</span>
-      <span class="publication-title"><a href="/assets/papers/mobicom26-butterfly-photoacoustic.pdf" target="_blank" rel="noopener noreferrer">When Butterfly Meets Photoacoustic Effect</a></span>
+      <span class="publication-title"><a href="https://dl.acm.org/doi/10.1145/3795866.3844464" target="_blank" rel="noopener noreferrer">When Butterfly Meets Photoacoustic Effect</a> <strong class="publication-oral">Oral</strong></span>
     </div>
     <div class="publication-authors"><strong>Lupeng Zhang</strong>, Minhao Cui, Qing Wang, Jie Xiong.</div>
     <div class="publication-venue">ACM Conference on Mobile Computing and Networking, 2026.</div>
@@ -60,7 +60,7 @@ I received my B.Eng. in Network Engineering from Dalian University of Technology
   <li class="publication-item">
     <div class="publication-heading">
       <span class="publication-badge">IMWUT/UbiComp '26</span>
-      <span class="publication-title">From One Form of Energy to Another: Laser-Induced Injection Attacks on Acoustic Sensing</span>
+      <span class="publication-title"><a href="https://dl.acm.org/doi/10.1145/3810215" target="_blank" rel="noopener noreferrer">From One Form of Energy to Another: Laser-Induced Injection Attacks on Acoustic Sensing</a></span>
     </div>
     <div class="publication-authors"><strong>Lupeng Zhang</strong>, Minhao Cui, Wenwei Li, Xuefu Dong, Qing Wang, Lei Wang, Daqing Zhang, Lili Qiu, Jie Xiong.</div>
     <div class="publication-venue">ACM Interactive, Mobile, Wearable and Ubiquitous Technologies, 2026.</div>
@@ -69,7 +69,7 @@ I received my B.Eng. in Network Engineering from Dalian University of Technology
   <li class="publication-item">
     <div class="publication-heading">
       <span class="publication-badge">IMWUT/UbiComp '24</span>
-      <span class="publication-title">AquaKey: Exploiting the Randomness of the Underwater Visible Light Communication Channel for Key Extraction</span>
+      <span class="publication-title"><a href="https://dl.acm.org/doi/10.1145/3643557" target="_blank" rel="noopener noreferrer">AquaKey: Exploiting the Randomness of the Underwater Visible Light Communication Channel for Key Extraction</a></span>
     </div>
     <div class="publication-authors"><strong>Lupeng Zhang</strong>, Pingchuan Wang, Minhao Cui, Jingwen Wei, Yu Tian, Jingchi Zhang, Jie Xiong, Lei Wang.</div>
     <div class="publication-venue">ACM Interactive, Mobile, Wearable and Ubiquitous Technologies, 2024, 8(1): 1–25.</div>
@@ -78,7 +78,7 @@ I received my B.Eng. in Network Engineering from Dalian University of Technology
   <li class="publication-item">
     <div class="publication-heading">
       <span class="publication-badge">IMWUT/UbiComp '26</span>
-      <span class="publication-title">AirComm: Your Smartphone Can “Smell” Fine Particles via Light</span>
+      <span class="publication-title"><a href="https://dl.acm.org/doi/10.1145/3831981" target="_blank" rel="noopener noreferrer">AirComm: Your Smartphone Can “Smell” Fine Particles via Light</a></span>
     </div>
     <div class="publication-authors">Yang Chi, <strong>Lupeng Zhang</strong>, Xinlei Li, Chi Lin, Jie Xiong.</div>
     <div class="publication-venue">ACM Interactive, Mobile, Wearable and Ubiquitous Technologies, 2026.</div>
@@ -87,7 +87,7 @@ I received my B.Eng. in Network Engineering from Dalian University of Technology
 <li class="publication-item">
     <div class="publication-heading">
       <span class="publication-badge">SenSys '26</span>
-      <span class="publication-title">From a Point to Hundreds: Embracing LiDAR on Commodity Smartphones for Fine-grained Pulmonary Function Sensing</span>
+      <span class="publication-title"><a href="https://dl.acm.org/doi/10.1145/3774906.3802752" target="_blank" rel="noopener noreferrer">From a Point to Hundreds: Embracing LiDAR on Commodity Smartphones for Fine-grained Pulmonary Function Sensing</a></span>
     </div>
     <div class="publication-authors">Xuefu Dong, Wenwei Li, Minhao Cui, Zilong Wang, <strong>Lupeng Zhang</strong>, Akihito Taya, Yuuki Nishiyama, Kaoru Sezaki, Lili Qiu, Jie Xiong.</div>
     <div class="publication-venue">Proceedings of the ACM Conference on Embedded Networked Sensor Systems, 2026.</div>
@@ -96,7 +96,7 @@ I received my B.Eng. in Network Engineering from Dalian University of Technology
   <li class="publication-item">
     <div class="publication-heading">
       <span class="publication-badge">SenSys '26</span>
-      <span class="publication-title">MoiréEar: Moiré Can See What You Cannot Hear</span>
+      <span class="publication-title"><a href="https://dl.acm.org/doi/10.1145/3774906.3802760" target="_blank" rel="noopener noreferrer">MoiréEar: Moiré Can See What You Cannot Hear</a></span>
     </div>
     <div class="publication-authors">Hongqiang Zhang, <strong>Lupeng Zhang</strong>, Chengcheng Zhao, Yuanchao Shu, Peng Cheng, Jiming Chen, Jie Xiong.</div>
     <div class="publication-venue">Proceedings of the ACM Conference on Embedded Networked Sensor Systems, 2026.</div>
@@ -106,7 +106,7 @@ I received my B.Eng. in Network Engineering from Dalian University of Technology
   <li class="publication-item">
     <div class="publication-heading">
       <span class="publication-badge">SECON '24</span>
-      <span class="publication-title">UniQR: A Secure QR Code Payment Scheme Using Device Pose and Environmental Matching</span>
+      <span class="publication-title"><a href="https://ieeexplore.ieee.org/document/10934844" target="_blank" rel="noopener noreferrer">UniQR: A Secure QR Code Payment Scheme Using Device Pose and Environmental Matching</a></span>
     </div>
     <div class="publication-authors">Jingwen Wei, <strong>Lupeng Zhang</strong>, Jingchi Zhang, Bin Han, Lei Wang.</div>
     <div class="publication-venue">IEEE International Conference on Sensing, Communication, and Networking, 2024, pp. 1–9.</div>

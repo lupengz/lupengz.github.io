@@ -229,6 +229,19 @@ a:focus {
   text-underline-offset: 0.16em;
 }
 
+.publication-oral {
+  display: inline-block;
+  margin-left: 0.35em;
+  padding: 0.12em 0.5em;
+  border-radius: 0.4em;
+  background-color: #fff0da;
+  color: #884600;
+  font-size: 0.8em;
+  font-weight: 700;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
 .publication-badge {
   grid-column: 1;
   grid-row: 1;
