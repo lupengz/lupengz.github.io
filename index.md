@@ -27,7 +27,7 @@ I received my B.Eng. in Network Engineering from Dalian University of Technology
 
 
 <ul class="compact-list">
-  <li>Nov. 2026: Received <strong>N2Women Best Poster Runner-Up Awards</strong> for <em>When Butterfly Meets Photoacoustic Effect</em>.</li>
+  <li>Nov. 2026: Received the <strong>N2Women Best Poster Runner-Up Award</strong> at <a href="https://www.sigmobile.org/mobicom/2026/awards.html">ACM MobiCom 2026</a> for <em>When Butterfly Meets Photoacoustic Effect</em>.</li>
   <li>Nov. 2026: Received <strong>Second Winner in the Graduate Category</strong> of the ACM MobiCom 2026 Student Research Competition (SRC).</li>
   <li>Sep. 2026: Honored to receive the <strong>N2Women Student Travel Grant</strong> for ACM MobiCom 2026.</li>
   <li>Sep. 2026: Serving as an Artifact Evaluation Committee Member for IEEE S&amp;P 2027.</li>
@@ -58,7 +58,7 @@ I received my B.Eng. in Network Engineering from Dalian University of Technology
     <div class="publication-venue">ACM Conference on Mobile Computing and Networking, 2026.</div>
     <div class="publication-award">
       <strong>(Student Research Competition 2nd Place)</strong><br>
-      <strong>(N2Women Best Poster Runner-Up Awards)</strong>
+      <strong>(N2Women Best Poster Runner-Up Award)</strong>
     </div>
   </li>
 
@@ -164,7 +164,7 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 <h2>Honors and Awards</h2>
 
 <ul>
-  <li><strong>N2Women Best Poster Runner-Up Awards,</strong> 2026.</li>
+  <li><strong>N2Women Best Poster Runner-Up Award,</strong> <a href="https://www.sigmobile.org/mobicom/2026/awards.html">ACM MobiCom 2026</a>.</li>
   <li><strong>Second Winner in the Graduate Category,</strong> ACM MobiCom Student Research Competition (SRC), 2026.</li>
   <li><strong>N2Women Student Travel Grant,</strong> ACM MobiCom, 2026.</li>
   <li><strong>ACM SIGMOBILE Student Travel Grant,</strong> ACM MobiCom, 2026.</li>
