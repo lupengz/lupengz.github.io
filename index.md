@@ -27,18 +27,19 @@ I received my B.Eng. in Network Engineering from Dalian University of Technology
 
 
 <ul class="compact-list">
-  <li><strong>Nov. 2026: Received Second Winner in the Graduate Category of the ACM MobiCom 2026 Student Research Competition (SRC).</strong></li>
-  <li><strong>Sep. 2026: Honored to receive the N2Women Student Travel Grant for ACM MobiCom 2026.</strong></li>
-  <li><strong>Sep. 2026:</strong> Serving as an Artifact Evaluation Committee Member for IEEE S&amp;P 2027.</li>
-  <li><strong>Sep. 2026: Honored to receive the ACM SIGMOBILE Student Travel Grant for ACM MobiCom 2026.</strong></li>
-  <li><strong>Jun. 2026: A beam of light makes butterfly wings sing. Check out our latest MobiCom ’26 paper, “When Butterfly Meets Photoacoustic Effect”!</strong></li>
-  <li><strong>Jun. 2026:</strong> Serving as an Artifact Evaluation Committee Member for NDSS 2027.</li>
-  <li><strong>May 2026:</strong> Serving as an Artifact Evaluation Committee Member for ACM CCS 2026.</li>
-  <li><strong>Apr. 2026:</strong> One paper was accepted at IMWUT/UbiComp '26.</li>
-  <li><strong>Mar. 2026:</strong> Serving as an Artifact Evaluation Committee Member for IEEE S&amp;P 2026.</li>
-  <li><strong>Aug. 2025:</strong> Started my Ph.D. journey at Nanyang Technological University!</li>
-  <li><strong>Oct. 2024:</strong> Presented <em>AquaKey</em> at UbiComp '24 in Melbourne, Australia.</li>
-  <li><strong>Mar. 2024:</strong> I was offered an intern position at Microsoft Research Asia, Shanghai!</li>
+  <li>Nov. 2026: Received <strong>N2Women Best Poster Runner-Up Awards</strong> for <em>When Butterfly Meets Photoacoustic Effect</em>.</li>
+  <li>Nov. 2026: Received <strong>Second Winner in the Graduate Category</strong> of the ACM MobiCom 2026 Student Research Competition (SRC).</li>
+  <li>Sep. 2026: Honored to receive the <strong>N2Women Student Travel Grant</strong> for ACM MobiCom 2026.</li>
+  <li>Sep. 2026: Serving as an Artifact Evaluation Committee Member for IEEE S&amp;P 2027.</li>
+  <li>Sep. 2026: Honored to receive the <strong>ACM SIGMOBILE Student Travel Grant</strong> for ACM MobiCom 2026.</li>
+  <li>Jun. 2026: A beam of light makes butterfly wings sing. Check out our latest MobiCom ’26 paper, <em>When Butterfly Meets Photoacoustic Effect</em>!</li>
+  <li>Jun. 2026: Serving as an Artifact Evaluation Committee Member for NDSS 2027.</li>
+  <li>May 2026: Serving as an Artifact Evaluation Committee Member for ACM CCS 2026.</li>
+  <li>Apr. 2026: One paper was accepted at IMWUT/UbiComp '26.</li>
+  <li>Mar. 2026: Serving as an Artifact Evaluation Committee Member for IEEE S&amp;P 2026.</li>
+  <li>Aug. 2025: Started my Ph.D. journey at Nanyang Technological University!</li>
+  <li>Oct. 2024: Presented <em>AquaKey</em> at UbiComp '24 in Melbourne, Australia.</li>
+  <li>Mar. 2024: I was offered an intern position at Microsoft Research Asia, Shanghai!</li>
 </ul>
 
 
@@ -55,7 +56,10 @@ I received my B.Eng. in Network Engineering from Dalian University of Technology
     </div>
     <div class="publication-authors"><strong>Lupeng Zhang</strong>, Minhao Cui, Qing Wang, Jie Xiong.</div>
     <div class="publication-venue">ACM Conference on Mobile Computing and Networking, 2026.</div>
-    <div class="publication-award"><strong>(Student Research Competition 2nd Place)</strong></div>
+    <div class="publication-award">
+      <strong>(Student Research Competition 2nd Place)</strong><br>
+      <strong>(N2Women Best Poster Runner-Up Awards)</strong>
+    </div>
   </li>
 
 
@@ -160,6 +164,7 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 <h2>Honors and Awards</h2>
 
 <ul>
+  <li><strong>N2Women Best Poster Runner-Up Awards,</strong> 2026.</li>
   <li><strong>Second Winner in the Graduate Category,</strong> ACM MobiCom Student Research Competition (SRC), 2026.</li>
   <li><strong>N2Women Student Travel Grant,</strong> ACM MobiCom, 2026.</li>
   <li><strong>ACM SIGMOBILE Student Travel Grant,</strong> ACM MobiCom, 2026.</li>
