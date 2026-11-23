@@ -27,6 +27,7 @@ I received my B.Eng. in Network Engineering from Dalian University of Technology
 
 
 <ul class="compact-list">
+  <li>Nov. 2026: Serving as an Artifact Evaluation Committee Member for ACM/IEEE SenSys 2027.</li>
   <li>Nov. 2026: Received the <strong>N2Women Best Poster Runner-Up Award</strong> at ACM MobiCom 2026 for <em>When Butterfly Meets Photoacoustic Effect</em>.</li>
   <li>Nov. 2026: Received <strong>Second Winner in the Graduate Category</strong> of the ACM MobiCom 2026 Student Research Competition (SRC).</li>
   <li>Sep. 2026: Honored to receive the <strong>N2Women Student Travel Grant</strong> for ACM MobiCom 2026.</li>
@@ -196,6 +197,8 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 
 <div id="service" class="anchor-offset"></div>
 <h2>Service</h2>
+
+- **Artifact Evaluation Committee Member**, *ACM/IEEE International Conference on Embedded Artificial Intelligence and Sensing Systems (SenSys)*, 2027.
 
 - **Artifact Evaluation Committee Member**, *IEEE Symposium on Security and Privacy (IEEE S&P)*, 2027.
 
